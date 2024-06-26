@@ -1,0 +1,8 @@
+C:\DotNet-Jun-2024\OOPExamples\ConstructorExamples\bin\Debug\ConstructorExamples.exe.config
+C:\DotNet-Jun-2024\OOPExamples\ConstructorExamples\bin\Debug\ConstructorExamples.exe
+C:\DotNet-Jun-2024\OOPExamples\ConstructorExamples\bin\Debug\ConstructorExamples.pdb
+C:\DotNet-Jun-2024\OOPExamples\ConstructorExamples\obj\Debug\ConstructorExamples.csproj.AssemblyReference.cache
+C:\DotNet-Jun-2024\OOPExamples\ConstructorExamples\obj\Debug\ConstructorExamples.csproj.SuggestedBindingRedirects.cache
+C:\DotNet-Jun-2024\OOPExamples\ConstructorExamples\obj\Debug\ConstructorExamples.csproj.CoreCompileInputs.cache
+C:\DotNet-Jun-2024\OOPExamples\ConstructorExamples\obj\Debug\ConstructorExamples.exe
+C:\DotNet-Jun-2024\OOPExamples\ConstructorExamples\obj\Debug\ConstructorExamples.pdb

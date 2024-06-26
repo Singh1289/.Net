@@ -12,7 +12,7 @@ namespace Assingment_01
         {
 			try
 			{
-                Student stu = new Student(01,"Abhishek",96);
+                Student stu = new Student(01,"ABC",96);
                 stu.onSelection += new basket(mongodb);
                 stu.onRejection += new basket(mysqldb);
                 stu.onTop += new basket(topper);

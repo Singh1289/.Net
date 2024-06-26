@@ -1,0 +1,8 @@
+C:\DotNet-Jun-2024\NonGenericCollectionExamples\QueueExample\bin\Debug\QueueExample.exe.config
+C:\DotNet-Jun-2024\NonGenericCollectionExamples\QueueExample\bin\Debug\QueueExample.exe
+C:\DotNet-Jun-2024\NonGenericCollectionExamples\QueueExample\bin\Debug\QueueExample.pdb
+C:\DotNet-Jun-2024\NonGenericCollectionExamples\QueueExample\obj\Debug\QueueExample.csproj.AssemblyReference.cache
+C:\DotNet-Jun-2024\NonGenericCollectionExamples\QueueExample\obj\Debug\QueueExample.csproj.SuggestedBindingRedirects.cache
+C:\DotNet-Jun-2024\NonGenericCollectionExamples\QueueExample\obj\Debug\QueueExample.csproj.CoreCompileInputs.cache
+C:\DotNet-Jun-2024\NonGenericCollectionExamples\QueueExample\obj\Debug\QueueExample.exe
+C:\DotNet-Jun-2024\NonGenericCollectionExamples\QueueExample\obj\Debug\QueueExample.pdb

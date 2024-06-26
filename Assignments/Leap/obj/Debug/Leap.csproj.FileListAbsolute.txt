@@ -1,0 +1,7 @@
+C:\Users\Group031\source\repos\Day3\Leap\bin\Debug\Leap.exe.config
+C:\Users\Group031\source\repos\Day3\Leap\bin\Debug\Leap.exe
+C:\Users\Group031\source\repos\Day3\Leap\bin\Debug\Leap.pdb
+C:\Users\Group031\source\repos\Day3\Leap\obj\Debug\Leap.csproj.AssemblyReference.cache
+C:\Users\Group031\source\repos\Day3\Leap\obj\Debug\Leap.csproj.CoreCompileInputs.cache
+C:\Users\Group031\source\repos\Day3\Leap\obj\Debug\Leap.exe
+C:\Users\Group031\source\repos\Day3\Leap\obj\Debug\Leap.pdb

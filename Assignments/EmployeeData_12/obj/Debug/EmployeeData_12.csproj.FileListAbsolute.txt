@@ -1,0 +1,7 @@
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\EmployeeData_12\obj\Debug\EmployeeData_12.csproj.AssemblyReference.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\EmployeeData_12\obj\Debug\EmployeeData_12.csproj.CoreCompileInputs.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\EmployeeData_12\bin\Debug\EmployeeData_12.exe.config
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\EmployeeData_12\bin\Debug\EmployeeData_12.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\EmployeeData_12\bin\Debug\EmployeeData_12.pdb
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\EmployeeData_12\obj\Debug\EmployeeData_12.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\EmployeeData_12\obj\Debug\EmployeeData_12.pdb

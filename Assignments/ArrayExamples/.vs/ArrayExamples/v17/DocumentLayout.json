@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Group031\\Desktop\\day3\\ArrayExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C097AFC9-8D7C-444F-BD4C-4B335CDC5999}|1DArray\\1DArray.csproj|C:\\Users\\Group031\\Desktop\\day3\\ArrayExamples\\1darray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C097AFC9-8D7C-444F-BD4C-4B335CDC5999}|1DArray\\1DArray.csproj|solutionrelative:1darray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E2562B-98FB-40D4-A115-B48DC35313EF}|JaggedArray\\JaggedArray.csproj|c:\\users\\group031\\desktop\\day3\\arrayexamples\\jaggedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E2562B-98FB-40D4-A115-B48DC35313EF}|JaggedArray\\JaggedArray.csproj|solutionrelative:jaggedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361D30C6-F30D-4330-87BE-06FDA1243B62}|2DArray\\2DArray.csproj|C:\\Users\\Group031\\Desktop\\day3\\ArrayExamples\\2darray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361D30C6-F30D-4330-87BE-06FDA1243B62}|2DArray\\2DArray.csproj|solutionrelative:2darray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group031\\Desktop\\day3\\ArrayExamples\\JaggedArray\\Program.cs",
+              "RelativeDocumentMoniker": "JaggedArray\\Program.cs",
+              "ToolTip": "C:\\Users\\Group031\\Desktop\\day3\\ArrayExamples\\JaggedArray\\Program.cs",
+              "RelativeToolTip": "JaggedArray\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:28:54.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group031\\Desktop\\day3\\ArrayExamples\\2DArray\\Program.cs",
+              "RelativeDocumentMoniker": "2DArray\\Program.cs",
+              "ToolTip": "C:\\Users\\Group031\\Desktop\\day3\\ArrayExamples\\2DArray\\Program.cs",
+              "RelativeToolTip": "2DArray\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:28:54.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group031\\Desktop\\day3\\ArrayExamples\\1DArray\\Program.cs",
+              "RelativeDocumentMoniker": "1DArray\\Program.cs",
+              "ToolTip": "C:\\Users\\Group031\\Desktop\\day3\\ArrayExamples\\1DArray\\Program.cs",
+              "RelativeToolTip": "1DArray\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:28:54.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

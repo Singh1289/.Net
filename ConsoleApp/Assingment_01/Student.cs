@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Assingment_01
 {
-    public delegate void basket();
+    public delegate void basket( );
     internal class Student
     {
         public event basket onSelection;

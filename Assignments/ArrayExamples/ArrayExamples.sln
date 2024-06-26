@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1DArray", "1DArray\1DArray.csproj", "{C097AFC9-8D7C-444F-BD4C-4B335CDC5999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DArray", "2DArray\2DArray.csproj", "{361D30C6-F30D-4330-87BE-06FDA1243B62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArray", "JaggedArray\JaggedArray.csproj", "{74E2562B-98FB-40D4-A115-B48DC35313EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C097AFC9-8D7C-444F-BD4C-4B335CDC5999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C097AFC9-8D7C-444F-BD4C-4B335CDC5999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C097AFC9-8D7C-444F-BD4C-4B335CDC5999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C097AFC9-8D7C-444F-BD4C-4B335CDC5999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{361D30C6-F30D-4330-87BE-06FDA1243B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361D30C6-F30D-4330-87BE-06FDA1243B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361D30C6-F30D-4330-87BE-06FDA1243B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361D30C6-F30D-4330-87BE-06FDA1243B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E2562B-98FB-40D4-A115-B48DC35313EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E2562B-98FB-40D4-A115-B48DC35313EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E2562B-98FB-40D4-A115-B48DC35313EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E2562B-98FB-40D4-A115-B48DC35313EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AADB6359-FDF2-4839-9683-AE953754B5C8}
+	EndGlobalSection
+EndGlobal

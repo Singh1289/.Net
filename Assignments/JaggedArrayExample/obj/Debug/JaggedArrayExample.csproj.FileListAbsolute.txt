@@ -1,0 +1,7 @@
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\JaggedArrayExample\bin\Debug\JaggedArrayExample.exe.config
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\JaggedArrayExample\bin\Debug\JaggedArrayExample.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\JaggedArrayExample\bin\Debug\JaggedArrayExample.pdb
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\JaggedArrayExample\obj\Debug\JaggedArrayExample.csproj.AssemblyReference.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\JaggedArrayExample\obj\Debug\JaggedArrayExample.csproj.CoreCompileInputs.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\JaggedArrayExample\obj\Debug\JaggedArrayExample.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\JaggedArrayExample\obj\Debug\JaggedArrayExample.pdb

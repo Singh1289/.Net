@@ -1,0 +1,8 @@
+C:\DotNet-Jun-2024\ArrayExamples\JaggedArray\bin\Debug\JaggedArray.exe.config
+C:\DotNet-Jun-2024\ArrayExamples\JaggedArray\bin\Debug\JaggedArray.exe
+C:\DotNet-Jun-2024\ArrayExamples\JaggedArray\bin\Debug\JaggedArray.pdb
+C:\DotNet-Jun-2024\ArrayExamples\JaggedArray\obj\Debug\JaggedArray.csproj.AssemblyReference.cache
+C:\DotNet-Jun-2024\ArrayExamples\JaggedArray\obj\Debug\JaggedArray.csproj.SuggestedBindingRedirects.cache
+C:\DotNet-Jun-2024\ArrayExamples\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+C:\DotNet-Jun-2024\ArrayExamples\JaggedArray\obj\Debug\JaggedArray.exe
+C:\DotNet-Jun-2024\ArrayExamples\JaggedArray\obj\Debug\JaggedArray.pdb

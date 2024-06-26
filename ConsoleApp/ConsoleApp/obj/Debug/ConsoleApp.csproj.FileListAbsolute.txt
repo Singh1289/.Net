@@ -5,3 +5,10 @@ D:\Infoway\.Net\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyRefere
 D:\Infoway\.Net\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
 D:\Infoway\.Net\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
 D:\Infoway\.Net\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Group030\Desktop\dotnet\.Net\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Group030\Desktop\dotnet\.Net\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Group030\Desktop\dotnet\.Net\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Group030\Desktop\dotnet\.Net\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Group030\Desktop\dotnet\.Net\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Group030\Desktop\dotnet\.Net\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Group030\Desktop\dotnet\.Net\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb

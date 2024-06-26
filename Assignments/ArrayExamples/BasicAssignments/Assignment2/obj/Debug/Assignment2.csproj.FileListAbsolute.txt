@@ -1,0 +1,8 @@
+C:\DotNet-Jun-2024\BasicAssignments\Assignment2\bin\Debug\Assignment2.exe.config
+C:\DotNet-Jun-2024\BasicAssignments\Assignment2\bin\Debug\Assignment2.exe
+C:\DotNet-Jun-2024\BasicAssignments\Assignment2\bin\Debug\Assignment2.pdb
+C:\DotNet-Jun-2024\BasicAssignments\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\DotNet-Jun-2024\BasicAssignments\Assignment2\obj\Debug\Assignment2.csproj.SuggestedBindingRedirects.cache
+C:\DotNet-Jun-2024\BasicAssignments\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\DotNet-Jun-2024\BasicAssignments\Assignment2\obj\Debug\Assignment2.exe
+C:\DotNet-Jun-2024\BasicAssignments\Assignment2\obj\Debug\Assignment2.pdb

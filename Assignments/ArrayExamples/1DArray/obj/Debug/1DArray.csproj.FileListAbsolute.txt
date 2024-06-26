@@ -1,0 +1,8 @@
+C:\DotNet-Jun-2024\ArrayExamples\1DArray\bin\Debug\1DArray.exe.config
+C:\DotNet-Jun-2024\ArrayExamples\1DArray\bin\Debug\1DArray.exe
+C:\DotNet-Jun-2024\ArrayExamples\1DArray\bin\Debug\1DArray.pdb
+C:\DotNet-Jun-2024\ArrayExamples\1DArray\obj\Debug\1DArray.csproj.AssemblyReference.cache
+C:\DotNet-Jun-2024\ArrayExamples\1DArray\obj\Debug\1DArray.csproj.SuggestedBindingRedirects.cache
+C:\DotNet-Jun-2024\ArrayExamples\1DArray\obj\Debug\1DArray.csproj.CoreCompileInputs.cache
+C:\DotNet-Jun-2024\ArrayExamples\1DArray\obj\Debug\1DArray.exe
+C:\DotNet-Jun-2024\ArrayExamples\1DArray\obj\Debug\1DArray.pdb

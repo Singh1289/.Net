@@ -1,0 +1,7 @@
+C:\Users\Group031\source\repos\Day-3cClassWork\lINKEDlISTaRRAY\bin\Debug\lINKEDlISTaRRAY.exe.config
+C:\Users\Group031\source\repos\Day-3cClassWork\lINKEDlISTaRRAY\bin\Debug\lINKEDlISTaRRAY.exe
+C:\Users\Group031\source\repos\Day-3cClassWork\lINKEDlISTaRRAY\bin\Debug\lINKEDlISTaRRAY.pdb
+C:\Users\Group031\source\repos\Day-3cClassWork\lINKEDlISTaRRAY\obj\Debug\lINKEDlISTaRRAY.csproj.AssemblyReference.cache
+C:\Users\Group031\source\repos\Day-3cClassWork\lINKEDlISTaRRAY\obj\Debug\lINKEDlISTaRRAY.csproj.CoreCompileInputs.cache
+C:\Users\Group031\source\repos\Day-3cClassWork\lINKEDlISTaRRAY\obj\Debug\lINKEDlISTaRRAY.exe
+C:\Users\Group031\source\repos\Day-3cClassWork\lINKEDlISTaRRAY\obj\Debug\lINKEDlISTaRRAY.pdb
