@@ -1,0 +1,7 @@
+D:\Infoway\.Net\ConsoleApp\Assingment_01\bin\Debug\Assingment_01.exe.config
+D:\Infoway\.Net\ConsoleApp\Assingment_01\bin\Debug\Assingment_01.exe
+D:\Infoway\.Net\ConsoleApp\Assingment_01\bin\Debug\Assingment_01.pdb
+D:\Infoway\.Net\ConsoleApp\Assingment_01\obj\Debug\Assingment_01.csproj.AssemblyReference.cache
+D:\Infoway\.Net\ConsoleApp\Assingment_01\obj\Debug\Assingment_01.csproj.CoreCompileInputs.cache
+D:\Infoway\.Net\ConsoleApp\Assingment_01\obj\Debug\Assingment_01.exe
+D:\Infoway\.Net\ConsoleApp\Assingment_01\obj\Debug\Assingment_01.pdb
