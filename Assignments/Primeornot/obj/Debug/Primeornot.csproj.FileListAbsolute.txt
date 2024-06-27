@@ -1,0 +1,7 @@
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\Primeornot\bin\Debug\Primeornot.exe.config
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\Primeornot\bin\Debug\Primeornot.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\Primeornot\bin\Debug\Primeornot.pdb
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\Primeornot\obj\Debug\Primeornot.csproj.AssemblyReference.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\Primeornot\obj\Debug\Primeornot.csproj.CoreCompileInputs.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\Primeornot\obj\Debug\Primeornot.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\Primeornot\obj\Debug\Primeornot.pdb

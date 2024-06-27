@@ -1,0 +1,7 @@
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\StaticClassExample\bin\Debug\StaticClassExample.exe.config
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\StaticClassExample\bin\Debug\StaticClassExample.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\StaticClassExample\bin\Debug\StaticClassExample.pdb
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\StaticClassExample\obj\Debug\StaticClassExample.csproj.AssemblyReference.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\StaticClassExample\obj\Debug\StaticClassExample.csproj.CoreCompileInputs.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\StaticClassExample\obj\Debug\StaticClassExample.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\StaticClassExample\obj\Debug\StaticClassExample.pdb

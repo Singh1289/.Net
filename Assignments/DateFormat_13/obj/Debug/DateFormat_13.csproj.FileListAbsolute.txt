@@ -1,0 +1,7 @@
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\DateFormat_13\bin\Debug\DateFormat_13.exe.config
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\DateFormat_13\bin\Debug\DateFormat_13.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\DateFormat_13\bin\Debug\DateFormat_13.pdb
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\DateFormat_13\obj\Debug\DateFormat_13.csproj.AssemblyReference.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\DateFormat_13\obj\Debug\DateFormat_13.csproj.CoreCompileInputs.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\DateFormat_13\obj\Debug\DateFormat_13.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\DateFormat_13\obj\Debug\DateFormat_13.pdb

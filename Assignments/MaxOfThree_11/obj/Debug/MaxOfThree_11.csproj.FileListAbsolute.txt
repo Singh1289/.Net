@@ -1,0 +1,7 @@
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\MaxOfThree_11\bin\Debug\MaxOfThree_11.exe.config
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\MaxOfThree_11\bin\Debug\MaxOfThree_11.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\MaxOfThree_11\bin\Debug\MaxOfThree_11.pdb
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\MaxOfThree_11\obj\Debug\MaxOfThree_11.csproj.AssemblyReference.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\MaxOfThree_11\obj\Debug\MaxOfThree_11.csproj.CoreCompileInputs.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\MaxOfThree_11\obj\Debug\MaxOfThree_11.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\MaxOfThree_11\obj\Debug\MaxOfThree_11.pdb

@@ -1,0 +1,7 @@
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\2DArrays\bin\Debug\2DArrays.exe.config
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\2DArrays\bin\Debug\2DArrays.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\2DArrays\bin\Debug\2DArrays.pdb
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\2DArrays\obj\Debug\2DArrays.csproj.AssemblyReference.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\2DArrays\obj\Debug\2DArrays.csproj.CoreCompileInputs.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\2DArrays\obj\Debug\2DArrays.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\2DArrays\obj\Debug\2DArrays.pdb

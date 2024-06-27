@@ -1,0 +1,7 @@
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\ASCIIFrom0-255_15\bin\Debug\ASCIIFrom0-255_15.exe.config
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\ASCIIFrom0-255_15\bin\Debug\ASCIIFrom0-255_15.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\ASCIIFrom0-255_15\bin\Debug\ASCIIFrom0-255_15.pdb
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\ASCIIFrom0-255_15\obj\Debug\ASCIIFrom0-255_15.csproj.AssemblyReference.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\ASCIIFrom0-255_15\obj\Debug\ASCIIFrom0-255_15.csproj.CoreCompileInputs.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\ASCIIFrom0-255_15\obj\Debug\ASCIIFrom0-255_15.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\ASCIIFrom0-255_15\obj\Debug\ASCIIFrom0-255_15.pdb
