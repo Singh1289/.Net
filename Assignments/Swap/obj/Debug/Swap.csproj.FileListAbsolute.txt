@@ -1,7 +1,0 @@
-C:\Users\Group031\source\repos\Day3\Swap\bin\Debug\Swap.exe.config
-C:\Users\Group031\source\repos\Day3\Swap\bin\Debug\Swap.exe
-C:\Users\Group031\source\repos\Day3\Swap\bin\Debug\Swap.pdb
-C:\Users\Group031\source\repos\Day3\Swap\obj\Debug\Swap.csproj.AssemblyReference.cache
-C:\Users\Group031\source\repos\Day3\Swap\obj\Debug\Swap.csproj.CoreCompileInputs.cache
-C:\Users\Group031\source\repos\Day3\Swap\obj\Debug\Swap.exe
-C:\Users\Group031\source\repos\Day3\Swap\obj\Debug\Swap.pdb

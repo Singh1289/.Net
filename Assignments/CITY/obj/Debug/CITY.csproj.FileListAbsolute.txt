@@ -1,7 +1,0 @@
-C:\Users\Group031\source\repos\Day-3cClassWork\CITY\bin\Debug\CITY.exe.config
-C:\Users\Group031\source\repos\Day-3cClassWork\CITY\bin\Debug\CITY.exe
-C:\Users\Group031\source\repos\Day-3cClassWork\CITY\bin\Debug\CITY.pdb
-C:\Users\Group031\source\repos\Day-3cClassWork\CITY\obj\Debug\CITY.csproj.AssemblyReference.cache
-C:\Users\Group031\source\repos\Day-3cClassWork\CITY\obj\Debug\CITY.csproj.CoreCompileInputs.cache
-C:\Users\Group031\source\repos\Day-3cClassWork\CITY\obj\Debug\CITY.exe
-C:\Users\Group031\source\repos\Day-3cClassWork\CITY\obj\Debug\CITY.pdb

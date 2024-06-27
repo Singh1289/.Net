@@ -1,7 +1,0 @@
-C:\Users\Group031\source\repos\Day3\ACSII\bin\Debug\ACSII.exe.config
-C:\Users\Group031\source\repos\Day3\ACSII\bin\Debug\ACSII.exe
-C:\Users\Group031\source\repos\Day3\ACSII\bin\Debug\ACSII.pdb
-C:\Users\Group031\source\repos\Day3\ACSII\obj\Debug\ACSII.csproj.AssemblyReference.cache
-C:\Users\Group031\source\repos\Day3\ACSII\obj\Debug\ACSII.csproj.CoreCompileInputs.cache
-C:\Users\Group031\source\repos\Day3\ACSII\obj\Debug\ACSII.exe
-C:\Users\Group031\source\repos\Day3\ACSII\obj\Debug\ACSII.pdb

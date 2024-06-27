@@ -1,0 +1,7 @@
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\AbsoluteValue_14\bin\Debug\AbsoluteValue_14.exe.config
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\AbsoluteValue_14\bin\Debug\AbsoluteValue_14.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\AbsoluteValue_14\bin\Debug\AbsoluteValue_14.pdb
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\AbsoluteValue_14\obj\Debug\AbsoluteValue_14.csproj.AssemblyReference.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\AbsoluteValue_14\obj\Debug\AbsoluteValue_14.csproj.CoreCompileInputs.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\AbsoluteValue_14\obj\Debug\AbsoluteValue_14.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\AbsoluteValue_14\obj\Debug\AbsoluteValue_14.pdb

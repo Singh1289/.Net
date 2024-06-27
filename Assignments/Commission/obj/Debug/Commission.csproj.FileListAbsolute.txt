@@ -1,7 +1,0 @@
-C:\Users\Group031\source\repos\Day3\Commission\bin\Debug\Commission.exe.config
-C:\Users\Group031\source\repos\Day3\Commission\bin\Debug\Commission.exe
-C:\Users\Group031\source\repos\Day3\Commission\bin\Debug\Commission.pdb
-C:\Users\Group031\source\repos\Day3\Commission\obj\Debug\Commission.csproj.AssemblyReference.cache
-C:\Users\Group031\source\repos\Day3\Commission\obj\Debug\Commission.csproj.CoreCompileInputs.cache
-C:\Users\Group031\source\repos\Day3\Commission\obj\Debug\Commission.exe
-C:\Users\Group031\source\repos\Day3\Commission\obj\Debug\Commission.pdb

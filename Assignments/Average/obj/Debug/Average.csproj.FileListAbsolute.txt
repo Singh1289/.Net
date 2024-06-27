@@ -1,7 +1,0 @@
-C:\Users\Group031\source\repos\Day3\Average\bin\Debug\Average.exe.config
-C:\Users\Group031\source\repos\Day3\Average\bin\Debug\Average.exe
-C:\Users\Group031\source\repos\Day3\Average\bin\Debug\Average.pdb
-C:\Users\Group031\source\repos\Day3\Average\obj\Debug\Average.csproj.AssemblyReference.cache
-C:\Users\Group031\source\repos\Day3\Average\obj\Debug\Average.csproj.CoreCompileInputs.cache
-C:\Users\Group031\source\repos\Day3\Average\obj\Debug\Average.exe
-C:\Users\Group031\source\repos\Day3\Average\obj\Debug\Average.pdb

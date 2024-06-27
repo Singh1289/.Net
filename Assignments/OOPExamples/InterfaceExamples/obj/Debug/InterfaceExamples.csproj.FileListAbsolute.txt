@@ -1,8 +1,0 @@
-C:\DotNet-Jun-2024\OOPExamples\InterfaceExamples\bin\Debug\InterfaceExamples.exe.config
-C:\DotNet-Jun-2024\OOPExamples\InterfaceExamples\bin\Debug\InterfaceExamples.exe
-C:\DotNet-Jun-2024\OOPExamples\InterfaceExamples\bin\Debug\InterfaceExamples.pdb
-C:\DotNet-Jun-2024\OOPExamples\InterfaceExamples\obj\Debug\InterfaceExamples.csproj.AssemblyReference.cache
-C:\DotNet-Jun-2024\OOPExamples\InterfaceExamples\obj\Debug\InterfaceExamples.csproj.SuggestedBindingRedirects.cache
-C:\DotNet-Jun-2024\OOPExamples\InterfaceExamples\obj\Debug\InterfaceExamples.csproj.CoreCompileInputs.cache
-C:\DotNet-Jun-2024\OOPExamples\InterfaceExamples\obj\Debug\InterfaceExamples.exe
-C:\DotNet-Jun-2024\OOPExamples\InterfaceExamples\obj\Debug\InterfaceExamples.pdb

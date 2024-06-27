@@ -1,8 +1,0 @@
-C:\DotNet-Jun-2024\OOPExamples\PolymorphismExamples\bin\Debug\PolymorphismExamples.exe.config
-C:\DotNet-Jun-2024\OOPExamples\PolymorphismExamples\bin\Debug\PolymorphismExamples.exe
-C:\DotNet-Jun-2024\OOPExamples\PolymorphismExamples\bin\Debug\PolymorphismExamples.pdb
-C:\DotNet-Jun-2024\OOPExamples\PolymorphismExamples\obj\Debug\PolymorphismExamples.csproj.AssemblyReference.cache
-C:\DotNet-Jun-2024\OOPExamples\PolymorphismExamples\obj\Debug\PolymorphismExamples.csproj.SuggestedBindingRedirects.cache
-C:\DotNet-Jun-2024\OOPExamples\PolymorphismExamples\obj\Debug\PolymorphismExamples.csproj.CoreCompileInputs.cache
-C:\DotNet-Jun-2024\OOPExamples\PolymorphismExamples\obj\Debug\PolymorphismExamples.exe
-C:\DotNet-Jun-2024\OOPExamples\PolymorphismExamples\obj\Debug\PolymorphismExamples.pdb
