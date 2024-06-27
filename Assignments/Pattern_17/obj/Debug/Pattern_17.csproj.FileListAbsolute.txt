@@ -1,0 +1,7 @@
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\Pattern_17\bin\Debug\Pattern_17.exe.config
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\Pattern_17\bin\Debug\Pattern_17.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\Pattern_17\bin\Debug\Pattern_17.pdb
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\Pattern_17\obj\Debug\Pattern_17.csproj.AssemblyReference.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\Pattern_17\obj\Debug\Pattern_17.csproj.CoreCompileInputs.cache
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\Pattern_17\obj\Debug\Pattern_17.exe
+C:\Users\Group030\Desktop\dotnet\.Net\Assignments\Pattern_17\obj\Debug\Pattern_17.pdb
