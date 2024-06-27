@@ -1,0 +1,7 @@
+D:\Infoway\.Net\ClassWork\LinqExample\bin\Debug\LinqExample.exe.config
+D:\Infoway\.Net\ClassWork\LinqExample\bin\Debug\LinqExample.exe
+D:\Infoway\.Net\ClassWork\LinqExample\bin\Debug\LinqExample.pdb
+D:\Infoway\.Net\ClassWork\LinqExample\obj\Debug\LinqExample.csproj.AssemblyReference.cache
+D:\Infoway\.Net\ClassWork\LinqExample\obj\Debug\LinqExample.csproj.CoreCompileInputs.cache
+D:\Infoway\.Net\ClassWork\LinqExample\obj\Debug\LinqExample.exe
+D:\Infoway\.Net\ClassWork\LinqExample\obj\Debug\LinqExample.pdb

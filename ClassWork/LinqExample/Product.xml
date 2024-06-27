@@ -1,0 +1,5 @@
+﻿<Products>
+	<Product ProductId="1000" ProductName="Nokia 7" UnitPrice="20000"/>
+	<Product ProductId="1001" ProductName="Samsung Galaxy" UnitPrice="25000"/>
+	<Product ProductId="1002" ProductName="MotoG" UnitPrice="12000"/>
+</Products>

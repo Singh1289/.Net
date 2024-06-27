@@ -1,0 +1,7 @@
+D:\Infoway\.Net\ClassWork\ClassWork\bin\Debug\ClassWork.exe.config
+D:\Infoway\.Net\ClassWork\ClassWork\bin\Debug\ClassWork.exe
+D:\Infoway\.Net\ClassWork\ClassWork\bin\Debug\ClassWork.pdb
+D:\Infoway\.Net\ClassWork\ClassWork\obj\Debug\CountCityByLinq.csproj.AssemblyReference.cache
+D:\Infoway\.Net\ClassWork\ClassWork\obj\Debug\CountCityByLinq.csproj.CoreCompileInputs.cache
+D:\Infoway\.Net\ClassWork\ClassWork\obj\Debug\ClassWork.exe
+D:\Infoway\.Net\ClassWork\ClassWork\obj\Debug\ClassWork.pdb
