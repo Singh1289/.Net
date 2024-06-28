@@ -1,0 +1,17 @@
+D:\Infoway\.Net\DisconnectedArchExample\EmployeeArch\bin\Debug\EmployeeArch.exe.config
+D:\Infoway\.Net\DisconnectedArchExample\EmployeeArch\bin\Debug\EmployeeArch.exe
+D:\Infoway\.Net\DisconnectedArchExample\EmployeeArch\bin\Debug\EmployeeArch.pdb
+D:\Infoway\.Net\DisconnectedArchExample\EmployeeArch\bin\Debug\MySql.Data.dll
+D:\Infoway\.Net\DisconnectedArchExample\EmployeeArch\bin\Debug\System.Memory.dll
+D:\Infoway\.Net\DisconnectedArchExample\EmployeeArch\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Infoway\.Net\DisconnectedArchExample\EmployeeArch\bin\Debug\System.Numerics.Vectors.dll
+D:\Infoway\.Net\DisconnectedArchExample\EmployeeArch\bin\Debug\System.Buffers.dll
+D:\Infoway\.Net\DisconnectedArchExample\EmployeeArch\bin\Debug\MySql.Data.xml
+D:\Infoway\.Net\DisconnectedArchExample\EmployeeArch\obj\Debug\EmployeeArch.csproj.AssemblyReference.cache
+D:\Infoway\.Net\DisconnectedArchExample\EmployeeArch\obj\Debug\EmployeeArch.GetEmployee.resources
+D:\Infoway\.Net\DisconnectedArchExample\EmployeeArch\obj\Debug\EmployeeArch.Properties.Resources.resources
+D:\Infoway\.Net\DisconnectedArchExample\EmployeeArch\obj\Debug\EmployeeArch.csproj.GenerateResource.cache
+D:\Infoway\.Net\DisconnectedArchExample\EmployeeArch\obj\Debug\EmployeeArch.csproj.CoreCompileInputs.cache
+D:\Infoway\.Net\DisconnectedArchExample\EmployeeArch\obj\Debug\Employee.6D2AC65C.Up2Date
+D:\Infoway\.Net\DisconnectedArchExample\EmployeeArch\obj\Debug\EmployeeArch.exe
+D:\Infoway\.Net\DisconnectedArchExample\EmployeeArch\obj\Debug\EmployeeArch.pdb

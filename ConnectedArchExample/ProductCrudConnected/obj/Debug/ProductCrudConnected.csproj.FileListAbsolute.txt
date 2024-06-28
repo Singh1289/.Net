@@ -1,0 +1,17 @@
+D:\Infoway\.Net\ConnectedArchExample\ProductCrudConnected\bin\Debug\ProductCrudConnected.exe.config
+D:\Infoway\.Net\ConnectedArchExample\ProductCrudConnected\bin\Debug\ProductCrudConnected.exe
+D:\Infoway\.Net\ConnectedArchExample\ProductCrudConnected\bin\Debug\ProductCrudConnected.pdb
+D:\Infoway\.Net\ConnectedArchExample\ProductCrudConnected\bin\Debug\MySql.Data.dll
+D:\Infoway\.Net\ConnectedArchExample\ProductCrudConnected\bin\Debug\System.Memory.dll
+D:\Infoway\.Net\ConnectedArchExample\ProductCrudConnected\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Infoway\.Net\ConnectedArchExample\ProductCrudConnected\bin\Debug\System.Numerics.Vectors.dll
+D:\Infoway\.Net\ConnectedArchExample\ProductCrudConnected\bin\Debug\System.Buffers.dll
+D:\Infoway\.Net\ConnectedArchExample\ProductCrudConnected\bin\Debug\MySql.Data.xml
+D:\Infoway\.Net\ConnectedArchExample\ProductCrudConnected\obj\Debug\ProductCrudConnected.csproj.AssemblyReference.cache
+D:\Infoway\.Net\ConnectedArchExample\ProductCrudConnected\obj\Debug\ProductCrudConnected.Form1.resources
+D:\Infoway\.Net\ConnectedArchExample\ProductCrudConnected\obj\Debug\ProductCrudConnected.Properties.Resources.resources
+D:\Infoway\.Net\ConnectedArchExample\ProductCrudConnected\obj\Debug\ProductCrudConnected.csproj.GenerateResource.cache
+D:\Infoway\.Net\ConnectedArchExample\ProductCrudConnected\obj\Debug\ProductCrudConnected.csproj.CoreCompileInputs.cache
+D:\Infoway\.Net\ConnectedArchExample\ProductCrudConnected\obj\Debug\ProductC.14431FF9.Up2Date
+D:\Infoway\.Net\ConnectedArchExample\ProductCrudConnected\obj\Debug\ProductCrudConnected.exe
+D:\Infoway\.Net\ConnectedArchExample\ProductCrudConnected\obj\Debug\ProductCrudConnected.pdb
