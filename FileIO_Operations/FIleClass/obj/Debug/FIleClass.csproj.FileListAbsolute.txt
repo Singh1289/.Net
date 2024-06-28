@@ -1,0 +1,7 @@
+D:\Infoway\.Net\FileIO_Operations\FIleClass\bin\Debug\FIleClass.exe.config
+D:\Infoway\.Net\FileIO_Operations\FIleClass\bin\Debug\FIleClass.exe
+D:\Infoway\.Net\FileIO_Operations\FIleClass\bin\Debug\FIleClass.pdb
+D:\Infoway\.Net\FileIO_Operations\FIleClass\obj\Debug\FIleClass.csproj.AssemblyReference.cache
+D:\Infoway\.Net\FileIO_Operations\FIleClass\obj\Debug\FIleClass.csproj.CoreCompileInputs.cache
+D:\Infoway\.Net\FileIO_Operations\FIleClass\obj\Debug\FIleClass.exe
+D:\Infoway\.Net\FileIO_Operations\FIleClass\obj\Debug\FIleClass.pdb

@@ -1,0 +1,7 @@
+D:\Infoway\.Net\FileIO_Operations\BinarySerializationExample\bin\Debug\BinarySerializationExample.exe.config
+D:\Infoway\.Net\FileIO_Operations\BinarySerializationExample\bin\Debug\BinarySerializationExample.exe
+D:\Infoway\.Net\FileIO_Operations\BinarySerializationExample\bin\Debug\BinarySerializationExample.pdb
+D:\Infoway\.Net\FileIO_Operations\BinarySerializationExample\obj\Debug\BinarySerializationExample.csproj.AssemblyReference.cache
+D:\Infoway\.Net\FileIO_Operations\BinarySerializationExample\obj\Debug\BinarySerializationExample.csproj.CoreCompileInputs.cache
+D:\Infoway\.Net\FileIO_Operations\BinarySerializationExample\obj\Debug\BinarySerializationExample.exe
+D:\Infoway\.Net\FileIO_Operations\BinarySerializationExample\obj\Debug\BinarySerializationExample.pdb

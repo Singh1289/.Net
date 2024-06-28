@@ -1,0 +1,7 @@
+D:\Infoway\.Net\FileIO_Operations\WindowDriveFileSearch\bin\Debug\WindowDriveFileSearch.exe.config
+D:\Infoway\.Net\FileIO_Operations\WindowDriveFileSearch\bin\Debug\WindowDriveFileSearch.exe
+D:\Infoway\.Net\FileIO_Operations\WindowDriveFileSearch\bin\Debug\WindowDriveFileSearch.pdb
+D:\Infoway\.Net\FileIO_Operations\WindowDriveFileSearch\obj\Debug\WindowDriveFileSearch.csproj.AssemblyReference.cache
+D:\Infoway\.Net\FileIO_Operations\WindowDriveFileSearch\obj\Debug\WindowDriveFileSearch.csproj.CoreCompileInputs.cache
+D:\Infoway\.Net\FileIO_Operations\WindowDriveFileSearch\obj\Debug\WindowDriveFileSearch.exe
+D:\Infoway\.Net\FileIO_Operations\WindowDriveFileSearch\obj\Debug\WindowDriveFileSearch.pdb

@@ -1,0 +1,7 @@
+D:\Infoway\.Net\ClassWork\CreateXMLFile\bin\Debug\CreateXMLFile.exe.config
+D:\Infoway\.Net\ClassWork\CreateXMLFile\bin\Debug\CreateXMLFile.exe
+D:\Infoway\.Net\ClassWork\CreateXMLFile\bin\Debug\CreateXMLFile.pdb
+D:\Infoway\.Net\ClassWork\CreateXMLFile\obj\Debug\CreateXMLFile.csproj.AssemblyReference.cache
+D:\Infoway\.Net\ClassWork\CreateXMLFile\obj\Debug\CreateXMLFile.csproj.CoreCompileInputs.cache
+D:\Infoway\.Net\ClassWork\CreateXMLFile\obj\Debug\CreateXMLFile.exe
+D:\Infoway\.Net\ClassWork\CreateXMLFile\obj\Debug\CreateXMLFile.pdb

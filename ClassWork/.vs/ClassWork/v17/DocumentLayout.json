@@ -3,27 +3,31 @@
   "WorkspaceRootPath": "D:\\Infoway\\.Net\\ClassWork\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{30BC9E75-A4E8-4F62-BBFD-4C7D871BF87E}|CreateXMLFile\\CreateXMLFile.csproj|d:\\infoway\\.net\\classwork\\createxmlfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BC9E75-A4E8-4F62-BBFD-4C7D871BF87E}|CreateXMLFile\\CreateXMLFile.csproj|solutionrelative:createxmlfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|d:\\infoway\\.net\\classwork\\linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|solutionrelative:linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|d:\\infoway\\.net\\classwork\\linqexample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|D:\\Infoway\\.Net\\ClassWork\\linqexample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|solutionrelative:linqexample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCFEFE15-C70D-46E5-893D-90D44E75EC67}|ClassWork\\CountCityByLinq.csproj|d:\\infoway\\.net\\classwork\\classwork\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCFEFE15-C70D-46E5-893D-90D44E75EC67}|ClassWork\\CountCityByLinq.csproj|D:\\Infoway\\.Net\\ClassWork\\classwork\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCFEFE15-C70D-46E5-893D-90D44E75EC67}|ClassWork\\CountCityByLinq.csproj|solutionrelative:classwork\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|d:\\infoway\\.net\\classwork\\linqexample\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|D:\\Infoway\\.Net\\ClassWork\\linqexample\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|solutionrelative:linqexample\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|d:\\infoway\\.net\\classwork\\linqexample\\product.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|D:\\Infoway\\.Net\\ClassWork\\linqexample\\product.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|solutionrelative:linqexample\\product.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|d:\\infoway\\.net\\classwork\\linqexample\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|D:\\Infoway\\.Net\\ClassWork\\linqexample\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|solutionrelative:linqexample\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\ClassWork\\CreateXMLFile\\Program.cs",
+              "RelativeDocumentMoniker": "CreateXMLFile\\Program.cs",
+              "ToolTip": "D:\\Infoway\\.Net\\ClassWork\\CreateXMLFile\\Program.cs",
+              "RelativeToolTip": "CreateXMLFile\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:01:47.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Product.xml",
               "DocumentMoniker": "D:\\Infoway\\.Net\\ClassWork\\LinqExample\\Product.xml",
               "RelativeDocumentMoniker": "LinqExample\\Product.xml",
@@ -46,12 +63,11 @@
               "RelativeToolTip": "LinqExample\\Product.xml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-06-27T11:55:26.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T11:55:26.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Infoway\\.Net\\ClassWork\\LinqExample\\Product.cs",
               "RelativeDocumentMoniker": "LinqExample\\Product.cs",
@@ -59,12 +75,11 @@
               "RelativeToolTip": "LinqExample\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T11:51:34.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T11:51:34.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Infoway\\.Net\\ClassWork\\LinqExample\\Employee.cs",
               "RelativeDocumentMoniker": "LinqExample\\Employee.cs",
@@ -72,12 +87,11 @@
               "RelativeToolTip": "LinqExample\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T11:50:01.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T11:50:01.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Customers.cs",
               "DocumentMoniker": "D:\\Infoway\\.Net\\ClassWork\\ClassWork\\Customers.cs",
               "RelativeDocumentMoniker": "ClassWork\\Customers.cs",
@@ -85,12 +99,11 @@
               "RelativeToolTip": "ClassWork\\Customers.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T10:09:43.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T10:09:43.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\Infoway\\.Net\\ClassWork\\LinqExample\\Order.cs",
               "RelativeDocumentMoniker": "LinqExample\\Order.cs",
@@ -98,12 +111,11 @@
               "RelativeToolTip": "LinqExample\\Order.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T10:03:01.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T10:03:01.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Infoway\\.Net\\ClassWork\\LinqExample\\Program.cs",
               "RelativeDocumentMoniker": "LinqExample\\Program.cs",
