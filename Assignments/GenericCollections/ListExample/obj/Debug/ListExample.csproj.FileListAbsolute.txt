@@ -1,0 +1,8 @@
+C:\DotNet-Jun-2024\GenericCollections\ListExample\bin\Debug\ListExample.exe.config
+C:\DotNet-Jun-2024\GenericCollections\ListExample\bin\Debug\ListExample.exe
+C:\DotNet-Jun-2024\GenericCollections\ListExample\bin\Debug\ListExample.pdb
+C:\DotNet-Jun-2024\GenericCollections\ListExample\obj\Debug\ListExample.csproj.AssemblyReference.cache
+C:\DotNet-Jun-2024\GenericCollections\ListExample\obj\Debug\ListExample.csproj.SuggestedBindingRedirects.cache
+C:\DotNet-Jun-2024\GenericCollections\ListExample\obj\Debug\ListExample.csproj.CoreCompileInputs.cache
+C:\DotNet-Jun-2024\GenericCollections\ListExample\obj\Debug\ListExample.exe
+C:\DotNet-Jun-2024\GenericCollections\ListExample\obj\Debug\ListExample.pdb

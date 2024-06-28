@@ -1,0 +1,7 @@
+C:\Users\Group031\source\repos\Day3\NetSalary\bin\Debug\NetSalary.exe.config
+C:\Users\Group031\source\repos\Day3\NetSalary\bin\Debug\NetSalary.exe
+C:\Users\Group031\source\repos\Day3\NetSalary\bin\Debug\NetSalary.pdb
+C:\Users\Group031\source\repos\Day3\NetSalary\obj\Debug\NetSalary.csproj.AssemblyReference.cache
+C:\Users\Group031\source\repos\Day3\NetSalary\obj\Debug\NetSalary.csproj.CoreCompileInputs.cache
+C:\Users\Group031\source\repos\Day3\NetSalary\obj\Debug\NetSalary.exe
+C:\Users\Group031\source\repos\Day3\NetSalary\obj\Debug\NetSalary.pdb
