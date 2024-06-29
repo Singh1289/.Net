@@ -1,0 +1,28 @@
+﻿@model List<FirstMvcApp.Models.Employee>
+
+@{
+    ViewBag.Title = "List";
+}
+
+<h1>Welcome To Infoway Employees List!</h1>
+<hr />
+<table class="table table-hover table-striped" >
+    <thead>
+        <tr>
+            <th>Employee Id</th>
+            <th>Employee Name</th>
+            <th>Employee City</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.EmployeeId</td>
+                <td>@item.EmployeeName</td>
+                <td>@item.City</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

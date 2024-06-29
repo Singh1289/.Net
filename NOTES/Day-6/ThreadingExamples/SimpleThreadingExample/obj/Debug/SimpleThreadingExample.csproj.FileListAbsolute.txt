@@ -1,0 +1,8 @@
+C:\DotNet-Jun-2024\Day-6\ThreadingExamples\SimpleThreadingExample\bin\Debug\SimpleThreadingExample.exe.config
+C:\DotNet-Jun-2024\Day-6\ThreadingExamples\SimpleThreadingExample\bin\Debug\SimpleThreadingExample.exe
+C:\DotNet-Jun-2024\Day-6\ThreadingExamples\SimpleThreadingExample\bin\Debug\SimpleThreadingExample.pdb
+C:\DotNet-Jun-2024\Day-6\ThreadingExamples\SimpleThreadingExample\obj\Debug\SimpleThreadingExample.csproj.AssemblyReference.cache
+C:\DotNet-Jun-2024\Day-6\ThreadingExamples\SimpleThreadingExample\obj\Debug\SimpleThreadingExample.csproj.SuggestedBindingRedirects.cache
+C:\DotNet-Jun-2024\Day-6\ThreadingExamples\SimpleThreadingExample\obj\Debug\SimpleThreadingExample.csproj.CoreCompileInputs.cache
+C:\DotNet-Jun-2024\Day-6\ThreadingExamples\SimpleThreadingExample\obj\Debug\SimpleThreadingExample.exe
+C:\DotNet-Jun-2024\Day-6\ThreadingExamples\SimpleThreadingExample\obj\Debug\SimpleThreadingExample.pdb

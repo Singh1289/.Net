@@ -1,0 +1,8 @@
+C:\DotNet-Jun-2024\Day-6\ThreadingExamples\ThreadSynchronization\bin\Debug\ThreadSynchronization.exe.config
+C:\DotNet-Jun-2024\Day-6\ThreadingExamples\ThreadSynchronization\bin\Debug\ThreadSynchronization.exe
+C:\DotNet-Jun-2024\Day-6\ThreadingExamples\ThreadSynchronization\bin\Debug\ThreadSynchronization.pdb
+C:\DotNet-Jun-2024\Day-6\ThreadingExamples\ThreadSynchronization\obj\Debug\ThreadSynchronization.csproj.AssemblyReference.cache
+C:\DotNet-Jun-2024\Day-6\ThreadingExamples\ThreadSynchronization\obj\Debug\ThreadSynchronization.csproj.SuggestedBindingRedirects.cache
+C:\DotNet-Jun-2024\Day-6\ThreadingExamples\ThreadSynchronization\obj\Debug\ThreadSynchronization.csproj.CoreCompileInputs.cache
+C:\DotNet-Jun-2024\Day-6\ThreadingExamples\ThreadSynchronization\obj\Debug\ThreadSynchronization.exe
+C:\DotNet-Jun-2024\Day-6\ThreadingExamples\ThreadSynchronization\obj\Debug\ThreadSynchronization.pdb
