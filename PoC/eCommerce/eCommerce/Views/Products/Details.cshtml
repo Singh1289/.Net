@@ -1,0 +1,10 @@
+﻿@model eCommerce.Models.Product
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h1>@ViewBag.PageTitle @Model.ProductName</h1>
+<h4>Actual Price - @Model.UnitPrice</h4>
+<h4>Discounted Price - @ViewBag.DiscountedPrice</h4>
+

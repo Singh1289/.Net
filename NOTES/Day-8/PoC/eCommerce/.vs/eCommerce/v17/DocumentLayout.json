@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infoway\\.Net\\NOTES\\Day-8\\PoC\\eCommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|d:\\infoway\\.net\\notes\\day-8\\poc\\ecommerce\\ecommerce\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|d:\\infoway\\.net\\notes\\day-8\\poc\\ecommerce\\ecommerce\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|D:\\Infoway\\.Net\\NOTES\\Day-8\\PoC\\eCommerce\\ecommerce\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|D:\\Infoway\\.Net\\NOTES\\Day-8\\PoC\\eCommerce\\ecommerce\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|D:\\Infoway\\.Net\\NOTES\\Day-8\\PoC\\eCommerce\\ecommerce\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnityConfig.cs",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\NOTES\\Day-8\\PoC\\eCommerce\\eCommerce\\App_Start\\UnityConfig.cs",
+              "RelativeDocumentMoniker": "eCommerce\\App_Start\\UnityConfig.cs",
+              "ToolTip": "D:\\Infoway\\.Net\\NOTES\\Day-8\\PoC\\eCommerce\\eCommerce\\App_Start\\UnityConfig.cs",
+              "RelativeToolTip": "eCommerce\\App_Start\\UnityConfig.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:57:40.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDal.cs",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\NOTES\\Day-8\\PoC\\eCommerce\\eCommerce\\Dal\\ProductDal.cs",
+              "RelativeDocumentMoniker": "eCommerce\\Dal\\ProductDal.cs",
+              "ToolTip": "D:\\Infoway\\.Net\\NOTES\\Day-8\\PoC\\eCommerce\\eCommerce\\Dal\\ProductDal.cs",
+              "RelativeToolTip": "eCommerce\\Dal\\ProductDal.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwDEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:56:43.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\NOTES\\Day-8\\PoC\\eCommerce\\eCommerce\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "eCommerce\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\Infoway\\.Net\\NOTES\\Day-8\\PoC\\eCommerce\\eCommerce\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "eCommerce\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-07-01T09:56:43.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\NOTES\\Day-8\\PoC\\eCommerce\\eCommerce\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "eCommerce\\Views\\Products\\Details.cshtml",
+              "ToolTip": "D:\\Infoway\\.Net\\NOTES\\Day-8\\PoC\\eCommerce\\eCommerce\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "eCommerce\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T09:56:43.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\NOTES\\Day-8\\PoC\\eCommerce\\eCommerce\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "eCommerce\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Infoway\\.Net\\NOTES\\Day-8\\PoC\\eCommerce\\eCommerce\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "eCommerce\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:56:44.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

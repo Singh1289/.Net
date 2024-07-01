@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infoway\\.Net\\NOTES\\Day-6\\FirstMvcApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{699C110B-1C61-4ED4-B543-AA31AAB1D1F1}|FirstMvcApp\\FirstMvcApp.csproj|D:\\Infoway\\.Net\\NOTES\\Day-6\\FirstMvcApp\\firstmvcapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699C110B-1C61-4ED4-B543-AA31AAB1D1F1}|FirstMvcApp\\FirstMvcApp.csproj|solutionrelative:firstmvcapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699C110B-1C61-4ED4-B543-AA31AAB1D1F1}|FirstMvcApp\\FirstMvcApp.csproj|D:\\Infoway\\.Net\\NOTES\\Day-6\\FirstMvcApp\\firstmvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699C110B-1C61-4ED4-B543-AA31AAB1D1F1}|FirstMvcApp\\FirstMvcApp.csproj|solutionrelative:firstmvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699C110B-1C61-4ED4-B543-AA31AAB1D1F1}|FirstMvcApp\\FirstMvcApp.csproj|d:\\infoway\\.net\\notes\\day-6\\firstmvcapp\\firstmvcapp\\views\\employees\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{699C110B-1C61-4ED4-B543-AA31AAB1D1F1}|FirstMvcApp\\FirstMvcApp.csproj|solutionrelative:firstmvcapp\\views\\employees\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699C110B-1C61-4ED4-B543-AA31AAB1D1F1}|FirstMvcApp\\FirstMvcApp.csproj|D:\\Infoway\\.Net\\NOTES\\Day-6\\FirstMvcApp\\firstmvcapp\\views\\employees\\infooffice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{699C110B-1C61-4ED4-B543-AA31AAB1D1F1}|FirstMvcApp\\FirstMvcApp.csproj|solutionrelative:firstmvcapp\\views\\employees\\infooffice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699C110B-1C61-4ED4-B543-AA31AAB1D1F1}|FirstMvcApp\\FirstMvcApp.csproj|d:\\infoway\\.net\\notes\\day-6\\firstmvcapp\\firstmvcapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{699C110B-1C61-4ED4-B543-AA31AAB1D1F1}|FirstMvcApp\\FirstMvcApp.csproj|solutionrelative:firstmvcapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699C110B-1C61-4ED4-B543-AA31AAB1D1F1}|FirstMvcApp\\FirstMvcApp.csproj|D:\\Infoway\\.Net\\NOTES\\Day-6\\FirstMvcApp\\firstmvcapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699C110B-1C61-4ED4-B543-AA31AAB1D1F1}|FirstMvcApp\\FirstMvcApp.csproj|solutionrelative:firstmvcapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\NOTES\\Day-6\\FirstMvcApp\\FirstMvcApp\\Web.config",
+              "RelativeDocumentMoniker": "FirstMvcApp\\Web.config",
+              "ToolTip": "D:\\Infoway\\.Net\\NOTES\\Day-6\\FirstMvcApp\\FirstMvcApp\\Web.config",
+              "RelativeToolTip": "FirstMvcApp\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-30T12:09:20.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\NOTES\\Day-6\\FirstMvcApp\\FirstMvcApp\\Views\\Employees\\List.cshtml",
+              "RelativeDocumentMoniker": "FirstMvcApp\\Views\\Employees\\List.cshtml",
+              "ToolTip": "D:\\Infoway\\.Net\\NOTES\\Day-6\\FirstMvcApp\\FirstMvcApp\\Views\\Employees\\List.cshtml",
+              "RelativeToolTip": "FirstMvcApp\\Views\\Employees\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T12:08:25.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfoOffice.cshtml",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\NOTES\\Day-6\\FirstMvcApp\\FirstMvcApp\\Views\\Employees\\InfoOffice.cshtml",
+              "RelativeDocumentMoniker": "FirstMvcApp\\Views\\Employees\\InfoOffice.cshtml",
+              "ToolTip": "D:\\Infoway\\.Net\\NOTES\\Day-6\\FirstMvcApp\\FirstMvcApp\\Views\\Employees\\InfoOffice.cshtml",
+              "RelativeToolTip": "FirstMvcApp\\Views\\Employees\\InfoOffice.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T12:08:27.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\NOTES\\Day-6\\FirstMvcApp\\FirstMvcApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "FirstMvcApp\\Models\\Employee.cs",
+              "ToolTip": "D:\\Infoway\\.Net\\NOTES\\Day-6\\FirstMvcApp\\FirstMvcApp\\Models\\Employee.cs",
+              "RelativeToolTip": "FirstMvcApp\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:08:27.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\NOTES\\Day-6\\FirstMvcApp\\FirstMvcApp\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "FirstMvcApp\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Infoway\\.Net\\NOTES\\Day-6\\FirstMvcApp\\FirstMvcApp\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "FirstMvcApp\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:08:27.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\NOTES\\Day-6\\FirstMvcApp\\FirstMvcApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FirstMvcApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Infoway\\.Net\\NOTES\\Day-6\\FirstMvcApp\\FirstMvcApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FirstMvcApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:08:27.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
