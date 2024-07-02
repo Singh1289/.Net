@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Group030\\Desktop\\dotnet\\.Net\\DisconnectedArch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD1633D-59DF-4BDF-A91F-AADB34E7FE76}|IO\\IO.csproj|c:\\users\\group030\\desktop\\dotnet\\.net\\disconnectedarch\\io\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AD1633D-59DF-4BDF-A91F-AADB34E7FE76}|IO\\IO.csproj|solutionrelative:io\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD1633D-59DF-4BDF-A91F-AADB34E7FE76}|IO\\IO.csproj|c:\\users\\group030\\desktop\\dotnet\\.net\\disconnectedarch\\io\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD1633D-59DF-4BDF-A91F-AADB34E7FE76}|IO\\IO.csproj|solutionrelative:io\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD1633D-59DF-4BDF-A91F-AADB34E7FE76}|IO\\IO.csproj|c:\\users\\group030\\desktop\\dotnet\\.net\\disconnectedarch\\io\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD1633D-59DF-4BDF-A91F-AADB34E7FE76}|IO\\IO.csproj|solutionrelative:io\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5C19C-B90C-47C9-B0A8-6A1E9D0C222A}|DisconnectedArch\\DisconnectedArch.csproj|c:\\users\\group030\\desktop\\dotnet\\.net\\disconnectedarch\\disconnectedarch\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5C19C-B90C-47C9-B0A8-6A1E9D0C222A}|DisconnectedArch\\DisconnectedArch.csproj|solutionrelative:disconnectedarch\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5C19C-B90C-47C9-B0A8-6A1E9D0C222A}|DisconnectedArch\\DisconnectedArch.csproj|c:\\users\\group030\\desktop\\dotnet\\.net\\disconnectedarch\\disconnectedarch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45E5C19C-B90C-47C9-B0A8-6A1E9D0C222A}|DisconnectedArch\\DisconnectedArch.csproj|solutionrelative:disconnectedarch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5C19C-B90C-47C9-B0A8-6A1E9D0C222A}|DisconnectedArch\\DisconnectedArch.csproj|c:\\users\\group030\\desktop\\dotnet\\.net\\disconnectedarch\\disconnectedarch\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5C19C-B90C-47C9-B0A8-6A1E9D0C222A}|DisconnectedArch\\DisconnectedArch.csproj|solutionrelative:disconnectedarch\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5C19C-B90C-47C9-B0A8-6A1E9D0C222A}|DisconnectedArch\\DisconnectedArch.csproj|c:\\users\\group030\\desktop\\dotnet\\.net\\disconnectedarch\\disconnectedarch\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45E5C19C-B90C-47C9-B0A8-6A1E9D0C222A}|DisconnectedArch\\DisconnectedArch.csproj|solutionrelative:disconnectedarch\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Group030\\Desktop\\dotnet\\.Net\\DisconnectedArch\\DisconnectedArch\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "DisconnectedArch\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\Group030\\Desktop\\dotnet\\.Net\\DisconnectedArch\\DisconnectedArch\\Form2.Designer.cs",
+              "RelativeToolTip": "DisconnectedArch\\Form2.Designer.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAewLcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:24:52.635Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Group030\\Desktop\\dotnet\\.Net\\DisconnectedArch\\DisconnectedArch\\Form1.cs",
+              "RelativeDocumentMoniker": "DisconnectedArch\\Form1.cs",
+              "ToolTip": "C:\\Users\\Group030\\Desktop\\dotnet\\.Net\\DisconnectedArch\\DisconnectedArch\\Form1.cs [Design]",
+              "RelativeToolTip": "DisconnectedArch\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:28:22.452Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Group030\\Desktop\\dotnet\\.Net\\DisconnectedArch\\IO\\Form1.cs",
+              "RelativeDocumentMoniker": "IO\\Form1.cs",
+              "ToolTip": "C:\\Users\\Group030\\Desktop\\dotnet\\.Net\\DisconnectedArch\\IO\\Form1.cs",
+              "RelativeToolTip": "IO\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA9wB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:53:52.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group030\\Desktop\\dotnet\\.Net\\DisconnectedArch\\IO\\Program.cs",
+              "RelativeDocumentMoniker": "IO\\Program.cs",
+              "ToolTip": "C:\\Users\\Group030\\Desktop\\dotnet\\.Net\\DisconnectedArch\\IO\\Program.cs",
+              "RelativeToolTip": "IO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:53:43.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Group030\\Desktop\\dotnet\\.Net\\DisconnectedArch\\IO\\Form1.cs",
+              "RelativeDocumentMoniker": "IO\\Form1.cs",
+              "ToolTip": "C:\\Users\\Group030\\Desktop\\dotnet\\.Net\\DisconnectedArch\\IO\\Form1.cs [Design]",
+              "RelativeToolTip": "IO\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:53:36.179Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Group030\\Desktop\\dotnet\\.Net\\DisconnectedArch\\DisconnectedArch\\Form2.cs",
+              "RelativeDocumentMoniker": "DisconnectedArch\\Form2.cs",
+              "ToolTip": "C:\\Users\\Group030\\Desktop\\dotnet\\.Net\\DisconnectedArch\\DisconnectedArch\\Form2.cs [Design]",
+              "RelativeToolTip": "DisconnectedArch\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:36:44.461Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Group030\\Desktop\\dotnet\\.Net\\DisconnectedArch\\DisconnectedArch\\Form2.cs",
+              "RelativeDocumentMoniker": "DisconnectedArch\\Form2.cs",
+              "ToolTip": "C:\\Users\\Group030\\Desktop\\dotnet\\.Net\\DisconnectedArch\\DisconnectedArch\\Form2.cs",
+              "RelativeToolTip": "DisconnectedArch\\Form2.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAuwGQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:26:52.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
