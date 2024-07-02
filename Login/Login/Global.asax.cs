@@ -16,6 +16,19 @@ namespace Login
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            UnityConfig.RegisterTypes(UnityConfig.Container);
         }
-    }
+
+        protected void Session_Start()
+        {
+            Session["Role"]= String.Empty;
+        }
+
+        protected void Session_End()
+        {
+            Session["Role"] = null;
+        }
+
+       
+     }
 }

@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{BF167013-064C-47A0-A885-ECF4C8851386}|ProductArch\\ProductArch.csproj|solutionrelative:productarch\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE662C5A-FD13-48BE-B8AA-1D86AFE1B5B6}|EmployeeArch\\EmployeeArch.csproj|d:\\infoway\\.net\\disconnectedarchexample\\employeearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AE662C5A-FD13-48BE-B8AA-1D86AFE1B5B6}|EmployeeArch\\EmployeeArch.csproj|solutionrelative:employeearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BF167013-064C-47A0-A885-ECF4C8851386}|ProductArch\\ProductArch.csproj|D:\\Infoway\\.Net\\DisconnectedArchExample\\productarch\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF167013-064C-47A0-A885-ECF4C8851386}|ProductArch\\ProductArch.csproj|solutionrelative:productarch\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE662C5A-FD13-48BE-B8AA-1D86AFE1B5B6}|EmployeeArch\\EmployeeArch.csproj|d:\\infoway\\.net\\disconnectedarchexample\\employeearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE662C5A-FD13-48BE-B8AA-1D86AFE1B5B6}|EmployeeArch\\EmployeeArch.csproj|solutionrelative:employeearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE662C5A-FD13-48BE-B8AA-1D86AFE1B5B6}|EmployeeArch\\EmployeeArch.csproj|d:\\infoway\\.net\\disconnectedarchexample\\employeearch\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AE662C5A-FD13-48BE-B8AA-1D86AFE1B5B6}|EmployeeArch\\EmployeeArch.csproj|solutionrelative:employeearch\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF167013-064C-47A0-A885-ECF4C8851386}|ProductArch\\ProductArch.csproj|d:\\infoway\\.net\\disconnectedarchexample\\productarch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF167013-064C-47A0-A885-ECF4C8851386}|ProductArch\\ProductArch.csproj|D:\\Infoway\\.Net\\DisconnectedArchExample\\productarch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF167013-064C-47A0-A885-ECF4C8851386}|ProductArch\\ProductArch.csproj|solutionrelative:productarch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF167013-064C-47A0-A885-ECF4C8851386}|ProductArch\\ProductArch.csproj|d:\\infoway\\.net\\disconnectedarchexample\\productarch\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BF167013-064C-47A0-A885-ECF4C8851386}|ProductArch\\ProductArch.csproj|solutionrelative:productarch\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AE662C5A-FD13-48BE-B8AA-1D86AFE1B5B6}|EmployeeArch\\EmployeeArch.csproj|D:\\Infoway\\.Net\\DisconnectedArchExample\\employeearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE662C5A-FD13-48BE-B8AA-1D86AFE1B5B6}|EmployeeArch\\EmployeeArch.csproj|solutionrelative:employeearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE662C5A-FD13-48BE-B8AA-1D86AFE1B5B6}|EmployeeArch\\EmployeeArch.csproj|D:\\Infoway\\.Net\\DisconnectedArchExample\\employeearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE662C5A-FD13-48BE-B8AA-1D86AFE1B5B6}|EmployeeArch\\EmployeeArch.csproj|solutionrelative:employeearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE662C5A-FD13-48BE-B8AA-1D86AFE1B5B6}|EmployeeArch\\EmployeeArch.csproj|D:\\Infoway\\.Net\\DisconnectedArchExample\\employeearch\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AE662C5A-FD13-48BE-B8AA-1D86AFE1B5B6}|EmployeeArch\\EmployeeArch.csproj|solutionrelative:employeearch\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,20 +38,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Infoway\\.Net\\DisconnectedArchExample\\ProductArch\\Program.cs",
               "RelativeDocumentMoniker": "ProductArch\\Program.cs",
               "ToolTip": "D:\\Infoway\\.Net\\DisconnectedArchExample\\ProductArch\\Program.cs",
               "RelativeToolTip": "ProductArch\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T14:00:56.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "App.config",
               "DocumentMoniker": "D:\\Infoway\\.Net\\DisconnectedArchExample\\EmployeeArch\\App.config",
               "RelativeDocumentMoniker": "EmployeeArch\\App.config",
@@ -64,20 +64,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Infoway\\.Net\\DisconnectedArchExample\\EmployeeArch\\Form1.cs",
               "RelativeDocumentMoniker": "EmployeeArch\\Form1.cs",
               "ToolTip": "D:\\Infoway\\.Net\\DisconnectedArchExample\\EmployeeArch\\Form1.cs",
               "RelativeToolTip": "EmployeeArch\\Form1.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAIA4wBYAAAA6AAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAApwBYAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T13:22:09.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Infoway\\.Net\\DisconnectedArchExample\\EmployeeArch\\Form1.cs",
               "RelativeDocumentMoniker": "EmployeeArch\\Form1.cs",
@@ -95,14 +95,14 @@
               "RelativeDocumentMoniker": "ProductArch\\Form2.cs",
               "ToolTip": "D:\\Infoway\\.Net\\DisconnectedArchExample\\ProductArch\\Form2.cs",
               "RelativeToolTip": "ProductArch\\Form2.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAwwFgAAAAlAAAA",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAUwGUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T11:59:59.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "D:\\Infoway\\.Net\\DisconnectedArchExample\\ProductArch\\Form2.cs",
               "RelativeDocumentMoniker": "ProductArch\\Form2.cs",

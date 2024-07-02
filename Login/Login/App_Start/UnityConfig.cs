@@ -1,3 +1,4 @@
+using Login.Dal;
 using System;
 
 using Unity;
@@ -41,7 +42,10 @@ namespace Login
             // container.LoadConfiguration();
 
             // TODO: Register your type's mappings here.
-            // container.RegisterType<IProductRepository, ProductRepository>();
+           // container.RegisterType<IEmployeeDal, EmployeeDal>();
+            container.RegisterType<UserDal, UserDal>();
+            
+
         }
     }
 }

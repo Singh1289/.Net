@@ -43,6 +43,8 @@
             this.txtProName = new System.Windows.Forms.TextBox();
             this.txtProPrice = new System.Windows.Forms.TextBox();
             this.HeadingMain = new System.Windows.Forms.Label();
+            this.dataGridView_pro = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView_pro)).BeginInit();
             this.SuspendLayout();
             // 
             // btn_first
@@ -51,7 +53,7 @@
             this.btn_first.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_first.Location = new System.Drawing.Point(132, 266);
             this.btn_first.Name = "btn_first";
-            this.btn_first.Size = new System.Drawing.Size(117, 53);
+            this.btn_first.Size = new System.Drawing.Size(116, 45);
             this.btn_first.TabIndex = 0;
             this.btn_first.Text = "<<";
             this.btn_first.UseVisualStyleBackColor = false;
@@ -63,7 +65,7 @@
             this.btn_Prev.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Prev.Location = new System.Drawing.Point(280, 266);
             this.btn_Prev.Name = "btn_Prev";
-            this.btn_Prev.Size = new System.Drawing.Size(100, 53);
+            this.btn_Prev.Size = new System.Drawing.Size(99, 45);
             this.btn_Prev.TabIndex = 1;
             this.btn_Prev.Text = "<";
             this.btn_Prev.UseVisualStyleBackColor = false;
@@ -75,7 +77,7 @@
             this.btn_next.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_next.Location = new System.Drawing.Point(406, 266);
             this.btn_next.Name = "btn_next";
-            this.btn_next.Size = new System.Drawing.Size(96, 54);
+            this.btn_next.Size = new System.Drawing.Size(95, 46);
             this.btn_next.TabIndex = 2;
             this.btn_next.Text = ">";
             this.btn_next.UseVisualStyleBackColor = false;
@@ -87,7 +89,7 @@
             this.btn_last.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_last.Location = new System.Drawing.Point(531, 266);
             this.btn_last.Name = "btn_last";
-            this.btn_last.Size = new System.Drawing.Size(103, 54);
+            this.btn_last.Size = new System.Drawing.Size(102, 46);
             this.btn_last.TabIndex = 3;
             this.btn_last.Text = ">>";
             this.btn_last.UseVisualStyleBackColor = false;
@@ -100,7 +102,7 @@
             this.btn_New.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btn_New.Location = new System.Drawing.Point(132, 346);
             this.btn_New.Name = "btn_New";
-            this.btn_New.Size = new System.Drawing.Size(117, 62);
+            this.btn_New.Size = new System.Drawing.Size(116, 54);
             this.btn_New.TabIndex = 4;
             this.btn_New.Text = "&New";
             this.btn_New.UseVisualStyleBackColor = false;
@@ -113,7 +115,7 @@
             this.btn_Save.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btn_Save.Location = new System.Drawing.Point(280, 346);
             this.btn_Save.Name = "btn_Save";
-            this.btn_Save.Size = new System.Drawing.Size(100, 62);
+            this.btn_Save.Size = new System.Drawing.Size(99, 54);
             this.btn_Save.TabIndex = 5;
             this.btn_Save.Text = "&Save";
             this.btn_Save.UseVisualStyleBackColor = false;
@@ -126,7 +128,7 @@
             this.btn_Modify.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btn_Modify.Location = new System.Drawing.Point(405, 346);
             this.btn_Modify.Name = "btn_Modify";
-            this.btn_Modify.Size = new System.Drawing.Size(97, 62);
+            this.btn_Modify.Size = new System.Drawing.Size(96, 54);
             this.btn_Modify.TabIndex = 6;
             this.btn_Modify.Text = "M&odify";
             this.btn_Modify.UseVisualStyleBackColor = false;
@@ -139,7 +141,7 @@
             this.btn_Remove.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btn_Remove.Location = new System.Drawing.Point(531, 346);
             this.btn_Remove.Name = "btn_Remove";
-            this.btn_Remove.Size = new System.Drawing.Size(103, 62);
+            this.btn_Remove.Size = new System.Drawing.Size(102, 54);
             this.btn_Remove.TabIndex = 7;
             this.btn_Remove.Text = "&Remove";
             this.btn_Remove.UseVisualStyleBackColor = false;
@@ -180,7 +182,7 @@
             this.txtProId.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtProId.Location = new System.Drawing.Point(331, 116);
             this.txtProId.Name = "txtProId";
-            this.txtProId.Size = new System.Drawing.Size(202, 27);
+            this.txtProId.Size = new System.Drawing.Size(201, 27);
             this.txtProId.TabIndex = 11;
             // 
             // txtProName
@@ -188,7 +190,7 @@
             this.txtProName.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtProName.Location = new System.Drawing.Point(331, 154);
             this.txtProName.Name = "txtProName";
-            this.txtProName.Size = new System.Drawing.Size(202, 27);
+            this.txtProName.Size = new System.Drawing.Size(201, 27);
             this.txtProName.TabIndex = 12;
             // 
             // txtProPrice
@@ -196,7 +198,7 @@
             this.txtProPrice.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtProPrice.Location = new System.Drawing.Point(331, 194);
             this.txtProPrice.Name = "txtProPrice";
-            this.txtProPrice.Size = new System.Drawing.Size(202, 27);
+            this.txtProPrice.Size = new System.Drawing.Size(201, 27);
             this.txtProPrice.TabIndex = 13;
             // 
             // HeadingMain
@@ -210,11 +212,22 @@
             this.HeadingMain.TabIndex = 14;
             this.HeadingMain.Text = "Product Datails";
             // 
+            // dataGridView_pro
+            // 
+            this.dataGridView_pro.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
+            this.dataGridView_pro.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView_pro.Location = new System.Drawing.Point(687, 116);
+            this.dataGridView_pro.Name = "dataGridView_pro";
+            this.dataGridView_pro.RowHeadersWidth = 47;
+            this.dataGridView_pro.Size = new System.Drawing.Size(366, 284);
+            this.dataGridView_pro.TabIndex = 15;
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(825, 450);
+            this.ClientSize = new System.Drawing.Size(1141, 450);
+            this.Controls.Add(this.dataGridView_pro);
             this.Controls.Add(this.HeadingMain);
             this.Controls.Add(this.txtProPrice);
             this.Controls.Add(this.txtProName);
@@ -233,6 +246,7 @@
             this.Name = "Form2";
             this.Text = "Form2";
             this.Load += new System.EventHandler(this.Form2_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView_pro)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -255,5 +269,6 @@
         private System.Windows.Forms.TextBox txtProName;
         private System.Windows.Forms.TextBox txtProPrice;
         private System.Windows.Forms.Label HeadingMain;
+        private System.Windows.Forms.DataGridView dataGridView_pro;
     }
 }

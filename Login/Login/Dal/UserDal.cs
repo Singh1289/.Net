@@ -5,10 +5,10 @@ using System.Configuration;
 using System.Data;
 using System.Linq;
 using System.Web;
-using FirstREST_api.Models;
+using Login.Models;
 using MySql.Data.MySqlClient;
 
-namespace FirstREST_api.Dal
+namespace Login.Dal
 {
     public class UserDal
     {

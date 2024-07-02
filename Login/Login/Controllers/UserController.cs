@@ -1,5 +1,5 @@
-﻿using FirstREST_api.Dal;
-using FirstREST_api.Models;
+﻿using Login.Dal;
+using Login.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,15 +22,21 @@ namespace FirstREST_api.Controllers
         {
             if (ModelState.IsValid)
             {
-                User loggedInUser = _userDal.checkCredential(user);
-                if (loggedInUser != null)
+                User loggedUser = _userDal.checkCredential(user);
+                if (loggedUser != null)
                 {
-                    Session["Role"] = loggedInUser.Role;
+                    Session["Role"] = loggedUser.Role;
                     return RedirectToAction("Index", "Home");
                 }
             }
             return View();
 
+        }
+
+        public ActionResult Logout()
+        {
+            Session.Abandon();
+            return RedirectToAction("Login", "Security");
         }
     }
 }

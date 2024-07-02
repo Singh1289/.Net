@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace FirstREST_api.Models
+namespace Login.Models
 {
     public class Employee
     {

@@ -20,6 +20,19 @@
                     <li>@Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
                     <li>@Html.ActionLink("About", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
                     <li>@Html.ActionLink("Contact", "Contact", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    @if (Session["Role"].ToString() == null || Session["Role"].ToString() == string.Empty)
+                    {
+                        <li class="nav-item">
+                            @Html.ActionLink("Login", "Login", "Security", new { area = "" }, new { @class = "nav-link active" })
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item">
+                            @Html.ActionLink("Logout", "Logout", "Security", new { area = "" }, new { @class = "nav-link active" })
+                        </li>
+                    }
+
                 </ul>
             </div>
         </div>

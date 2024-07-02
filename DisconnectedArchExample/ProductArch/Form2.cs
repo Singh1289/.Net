@@ -27,6 +27,7 @@ namespace ProductArch
             DS = new DataSet();
             DA.Fill(DS, "Products");
             Navigation(currentIndex);
+            dataGridView_pro.DataSource= DS.Tables[0];
         }
 
         public void Navigation(int index)
@@ -74,6 +75,7 @@ namespace ProductArch
             txtProName.Text = String.Empty;
             txtProPrice.Text = String.Empty;
             txtProId.Focus();
+            dataGridView_pro.DataSource = DS.Tables[0];
         }
 
         private void btn_Save_Click(object sender, EventArgs e)
@@ -87,30 +89,38 @@ namespace ProductArch
             DA.Update(DS.Tables[0]);        // Update your database
             MessageBox.Show("Record saved successfully.");
             btn_New_Click(sender, e);
+            
         }
 
         private void btn_Modify_Click(object sender, EventArgs e)
         {
-            int id = int.Parse(txtProId.Text);
-            DataRow[] row = DS.Tables[0].Select($"productId ='{id}'");
-            
-            if (row.Length > 0)
-            {
-                DataRow row1 = row[0];
-               
-                row1["productName"] = txtProName.Text;
-                row1["productPrice"] = txtProPrice.Text;
-                
-                DA.Update(DS.Tables[0]);
 
-                MessageBox.Show("Record updated successfully.");
-                btn_New_Click(sender,e);
-            }
-            else
-            {
-                MessageBox.Show("Record not found to update.");
-            }
-                     
+            DS.Tables[0].Rows[currentIndex][0] = txtProId.Text;
+            DS.Tables[0].Rows[currentIndex]["productName"] = txtProName.Text;
+            DS.Tables[0].Rows[currentIndex]["productPrice"] = txtProPrice.Text;
+            DA.Update(DS.Tables[0]);
+            MessageBox.Show("Record Updated successfully.");
+            btn_New_Click(sender, e);
+            //int id = int.Parse(txtProId.Text);
+            //DataRow[] row = DS.Tables[0].Select($"productId ='{id}'");
+
+            //if (row.Length > 0)
+            //{
+            //    DataRow row1 = row[0];
+
+            //    row1["productName"] = txtProName.Text;
+            //    row1["productPrice"] = txtProPrice.Text;
+
+            //    DA.Update(DS.Tables[0]);
+
+            //    MessageBox.Show("Record updated successfully.");
+            //    btn_New_Click(sender,e);
+            //}
+            //else
+            //{
+            //    MessageBox.Show("Record not found to update.");
+            //}
+
         }
 
         private void btn_Remove_Click(object sender, EventArgs e)

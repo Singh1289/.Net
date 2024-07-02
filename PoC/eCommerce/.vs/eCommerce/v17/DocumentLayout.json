@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "D:\\Infoway\\.Net\\PoC\\eCommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|D:\\Infoway\\.Net\\PoC\\eCommerce\\ecommerce\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|D:\\Infoway\\.Net\\PoC\\eCommerce\\ecommerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|D:\\Infoway\\.Net\\PoC\\eCommerce\\ecommerce\\views\\security\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\views\\security\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|d:\\infoway\\.net\\poc\\ecommerce\\ecommerce\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|d:\\infoway\\.net\\poc\\ecommerce\\ecommerce\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|d:\\infoway\\.net\\poc\\ecommerce\\ecommerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|D:\\Infoway\\.Net\\PoC\\eCommerce\\ecommerce\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|D:\\Infoway\\.Net\\PoC\\eCommerce\\ecommerce\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|D:\\Infoway\\.Net\\PoC\\eCommerce\\ecommerce\\views\\security\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\views\\security\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|D:\\Infoway\\.Net\\PoC\\eCommerce\\ecommerce\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|D:\\Infoway\\.Net\\PoC\\eCommerce\\ecommerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|D:\\Infoway\\.Net\\PoC\\eCommerce\\ecommerce\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,20 +43,8 @@
       "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|D:\\Infoway\\.Net\\PoC\\eCommerce\\ecommerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|D:\\Infoway\\.Net\\PoC\\eCommerce\\ecommerce\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|D:\\Infoway\\.Net\\PoC\\eCommerce\\ecommerce\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|D:\\Infoway\\.Net\\PoC\\eCommerce\\ecommerce\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FEBD62C-67E9-4410-8006-E8C167F0524D}|eCommerce\\eCommerce.csproj|D:\\Infoway\\.Net\\PoC\\eCommerce\\ecommerce\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -58,24 +62,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "eCommerce\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "eCommerce\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T06:21:05.171Z",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "eCommerce\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "eCommerce\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T10:32:22.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "eCommerce\\Controllers\\CategoriesController.cs",
@@ -83,24 +87,24 @@
               "RelativeToolTip": "eCommerce\\Controllers\\CategoriesController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T06:00:35.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T06:00:35.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Global.asax.cs",
               "RelativeDocumentMoniker": "eCommerce\\Global.asax.cs",
               "ToolTip": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Global.asax.cs",
               "RelativeToolTip": "eCommerce\\Global.asax.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBcAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
-              "WhenOpened": "2024-07-02T06:00:35.252Z"
+              "ViewState": "AQIAAAwAAAAAAAAAAAA4wBMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:00:35.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UserDal.cs",
               "DocumentMoniker": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Dal\\UserDal.cs",
               "RelativeDocumentMoniker": "eCommerce\\Dal\\UserDal.cs",
@@ -113,45 +117,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Views\\Security\\Login.cshtml",
               "RelativeDocumentMoniker": "eCommerce\\Views\\Security\\Login.cshtml",
               "ToolTip": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Views\\Security\\Login.cshtml",
               "RelativeToolTip": "eCommerce\\Views\\Security\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-02T06:00:35.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Models\\User.cs",
               "RelativeDocumentMoniker": "eCommerce\\Models\\User.cs",
               "ToolTip": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Models\\User.cs",
               "RelativeToolTip": "eCommerce\\Models\\User.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T06:00:35.259Z"
+              "WhenOpened": "2024-07-02T06:00:35.259Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "SecurityController.cs",
               "DocumentMoniker": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Controllers\\SecurityController.cs",
               "RelativeDocumentMoniker": "eCommerce\\Controllers\\SecurityController.cs",
               "ToolTip": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Controllers\\SecurityController.cs",
               "RelativeToolTip": "eCommerce\\Controllers\\SecurityController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAIAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T06:00:35.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ProductDal.cs",
               "DocumentMoniker": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Dal\\ProductDal.cs",
               "RelativeDocumentMoniker": "eCommerce\\Dal\\ProductDal.cs",
@@ -163,7 +168,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "eCommerce\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "eCommerce\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T06:00:35.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "eCommerce\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "eCommerce\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:21:05.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "eCommerce\\Controllers\\ProductsController.cs",
@@ -171,24 +201,11 @@
               "RelativeToolTip": "eCommerce\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T06:00:35.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T06:00:35.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "eCommerce\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "eCommerce\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAcwB4AAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
-              "WhenOpened": "2024-07-02T06:00:35.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "eCommerce\\Views\\Products\\Index.cshtml",
@@ -200,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Infoway\\.Net\\PoC\\eCommerce\\eCommerce\\Views\\Products\\Details.cshtml",
               "RelativeDocumentMoniker": "eCommerce\\Views\\Products\\Details.cshtml",
