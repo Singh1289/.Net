@@ -23,11 +23,7 @@ namespace Login.Controllers
         // GET: Security/Create
         public ActionResult login()
         {
-
-            
             return View();
-
-
         }
 
         // POST: Security/Create
@@ -35,11 +31,9 @@ namespace Login.Controllers
         public ActionResult login(User u)
         {
             if (ModelState.IsValid)
-            {
-
-            
-            try
-            {
+            {            
+                try
+                {
                 // TODO: Add insert logic here
                 int i=dal.SearchUser(u);
                 if (i == 1)
@@ -53,11 +47,11 @@ namespace Login.Controllers
                     ViewData["status"] = "Invalid Credentials...";
                     return View("login");
                 }
-            }
-            catch
-            {
-                return View();
-            }
+
+                catch
+                {
+                    return View();
+                }
             }
             return View();
         }

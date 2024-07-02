@@ -12,7 +12,7 @@ namespace Login.Dal
 {
     public class UserDal
     {
-        private String connection;
+        private readonly String connection;
 
         public UserDal()
         {
@@ -34,6 +34,7 @@ namespace Login.Dal
                     CMD.Parameters.AddWithValue("p_email", u1.Email);
                     CMD.Parameters.AddWithValue("p_password", u1.Password);
                     MySqlDataReader DR = CMD.ExecuteReader();
+                    DR.Read();  
                     temp = new User()
                     {
                         Email = DR["Email"].ToString(),

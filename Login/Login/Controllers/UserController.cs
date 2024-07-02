@@ -7,7 +7,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Mvc;
 
-namespace FirstREST_api.Controllers
+namespace Login.Controllers
 {
     public class UserController : Controller
     {
@@ -18,6 +18,18 @@ namespace FirstREST_api.Controllers
                 _userDal = new UserDal();   
         }
 
+        public ActionResult Index(User u)
+        {
+            ViewData["status"] = TempData["status"];
+            return View(u);
+        }
+
+        public ActionResult Login()
+        {
+            return View();
+        }
+
+        [HttpPost]
         public ActionResult Login(User user)
         {
             if (ModelState.IsValid)
@@ -25,8 +37,9 @@ namespace FirstREST_api.Controllers
                 User loggedUser = _userDal.checkCredential(user);
                 if (loggedUser != null)
                 {
+
                     Session["Role"] = loggedUser.Role;
-                    return RedirectToAction("Index", "Home");
+                    return RedirectToAction("Index",user);
                 }
             }
             return View();
@@ -36,7 +49,7 @@ namespace FirstREST_api.Controllers
         public ActionResult Logout()
         {
             Session.Abandon();
-            return RedirectToAction("Login", "Security");
+            return RedirectToAction("Index", "Home");
         }
     }
 }

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace FirstREST_api.Dal
+namespace Login.Dal
 {
     public class EmployeeDal
     {

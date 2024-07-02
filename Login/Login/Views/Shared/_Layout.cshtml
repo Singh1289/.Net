@@ -23,13 +23,13 @@
                     @if (Session["Role"].ToString() == null || Session["Role"].ToString() == string.Empty)
                     {
                         <li class="nav-item">
-                            @Html.ActionLink("Login", "Login", "Security", new { area = "" }, new { @class = "nav-link active" })
+                            @Html.ActionLink("Login", "Login", "User", new { area = "" }, new { @class = "nav-link active" })
                         </li>
                     }
                     else
                     {
                         <li class="nav-item">
-                            @Html.ActionLink("Logout", "Logout", "Security", new { area = "" }, new { @class = "nav-link active" })
+                            @Html.ActionLink("Logout", "Logout", "User", new { area = "" }, new { @class = "nav-link active" })
                         </li>
                     }
 
