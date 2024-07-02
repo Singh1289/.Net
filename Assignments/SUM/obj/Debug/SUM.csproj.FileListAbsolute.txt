@@ -1,0 +1,7 @@
+C:\Users\Group031\source\repos\Day3\SUM\bin\Debug\SUM.exe.config
+C:\Users\Group031\source\repos\Day3\SUM\bin\Debug\SUM.exe
+C:\Users\Group031\source\repos\Day3\SUM\bin\Debug\SUM.pdb
+C:\Users\Group031\source\repos\Day3\SUM\obj\Debug\SUM.csproj.AssemblyReference.cache
+C:\Users\Group031\source\repos\Day3\SUM\obj\Debug\SUM.csproj.CoreCompileInputs.cache
+C:\Users\Group031\source\repos\Day3\SUM\obj\Debug\SUM.exe
+C:\Users\Group031\source\repos\Day3\SUM\obj\Debug\SUM.pdb

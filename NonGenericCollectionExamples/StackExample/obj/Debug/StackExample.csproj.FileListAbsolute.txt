@@ -1,0 +1,8 @@
+C:\DotNet-Jun-2024\NonGenericCollectionExamples\StackExample\bin\Debug\StackExample.exe.config
+C:\DotNet-Jun-2024\NonGenericCollectionExamples\StackExample\bin\Debug\StackExample.exe
+C:\DotNet-Jun-2024\NonGenericCollectionExamples\StackExample\bin\Debug\StackExample.pdb
+C:\DotNet-Jun-2024\NonGenericCollectionExamples\StackExample\obj\Debug\StackExample.csproj.AssemblyReference.cache
+C:\DotNet-Jun-2024\NonGenericCollectionExamples\StackExample\obj\Debug\StackExample.csproj.SuggestedBindingRedirects.cache
+C:\DotNet-Jun-2024\NonGenericCollectionExamples\StackExample\obj\Debug\StackExample.csproj.CoreCompileInputs.cache
+C:\DotNet-Jun-2024\NonGenericCollectionExamples\StackExample\obj\Debug\StackExample.exe
+C:\DotNet-Jun-2024\NonGenericCollectionExamples\StackExample\obj\Debug\StackExample.pdb

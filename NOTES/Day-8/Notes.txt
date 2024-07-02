@@ -1,0 +1,334 @@
+Email - dabade.pravinkumar@gmail.com
+M #. - 9665622460
+
+What is an object?
+	Collection of Properties, Methods and Events
+
+4-Major Pillars of OOP
+
+1) Abstraction
+	Class is a template for an object
+		1) Create new instance [Instance Members]
+			Class1 obj=new Class1();
+		2) By Extending [Inherited Members]
+			Class1 extends Person{...}
+2) Encapsulation - Hiding
+	Access Modifiers [Private, Public, Protected, Internal, Protected Internal, Private Internal]
+
+3) Inheritance - [Reuasability]
+	Generalization to Specialization
+	Types - 
+		Single, Multiple, Multi-Level, Hierachy, Hybrid
+4) Polymorphism
+	Overloading, Compile Time, Static Binding, Early Binding
+	Overriding, Runtime, Dynamic, Late Binding
+
+interface IPhysics{
+	physicsCalculation();
+}
+
+interface IChemistry{
+	chemistryCalculation();
+}
+interface IDeparementHod extends IPhys, IChem, IBiology{
+	
+}
+interface IPhysics{
+	physicsCalculation();
+}
+
+
+class Science implements IPhy, IChem, IBio{
+	physicsCalculation(){...}
+	biologyCalculation(){...}
+	chemistryCalculation(){...}
+}
+
+IPhysics phyHod = new Science();
+cheHod = new Science();
+bioHod = new Science();
+IDepartmentHod scienceHod = new Science();
+
+Different types of classes - 
+
+1) Abstract class
+2) Concret class
+3) Sealed/Final Class
+4) Partial Class
+5) Anonymous class
+6) Static Class
+
+static class Data{
+	public static nt Counter {get;set;}
+}
+
+Data.Counter++
+
+Overloading - 
+class Math {
+	int Addition(int i, int j)
+	int Addition(double i, double j)
+	string Addition(string i, string j, string k)
+	//double Addition(double i, double j) - Not overloaded
+}
+
+class AdvanceMath : Math {
+	int Addition(int i, int j, int k)
+
+}
+
+Overriding - 
+
+class Math{
+	virtual int Addition(int i, int j) { return i + j; }
+}
+
+class AdvanceMath : Math {
+	override int Addition(int i, int j) { return i + j + 1000; }
+
+}
+
+Math m1=new Math();
+m1.Addition(1000,2000); //3000
+
+AdvanceMath m1=new AdvanceMath();
+m1.Addition(1000,2000); //4000
+
+Math m1=new AdvanceMath();
+m1.Addition(1000,2000); //4000
+
+Exmample - InfowayInterviewApp
+
+C# Every type is extended from a super base class - Object
+
+Different Types of Parameters to a function - 
+
+1) Input [Default]
+2) Out 
+3) Ref
+4) Params
+
+Different Types constructor
+
+1) Default
+2) Parameterized
+3) Copy
+4) Static
+
+
+Data - 
+Where can I keep the data?
+
+1) In-Memory
+	Varaibles, 
+	Collections - [Non-Generic/Generic(Prefered)]
+		Array, 
+			1D, 2D, Jagged Array
+		Non-Generic Collections [System.Collections]
+			ArrayList
+			Stack
+			Queue
+			Hashtable
+		Generic Collection [T=Type] [System.Collections.Generic]
+			List<T>
+			Stack<T>
+			Queue<T>
+			Dictionary<TKey,TValue>
+
+2) File System - System.IO
+	1) DriveInfo
+	2) DirectoryInfo
+	3) FileInfo
+	4) File [Static]
+	5) StreamWriter
+	6) StreamReader
+	7) FileStream
+
+Serialization/Deserilalization
+	Binary [.dat], Xml, Json, SOAP - Simple Object Access Protocol [Web Service]
+
+3) Data
+
+
+-------------------- Language Integrated Query
+
+select */col1,col2 ... from <Table_Name>
+where condition
+group by ...
+order by ...;
+
+JOIN
+
+1) Select * from Table_Name;
+from variable_name in collection
+select variable_name;
+
+2) Select * from Table_Name where condition;
+from variable_name in collection
+where variable_name.property="condition"
+select variable_name;
+
+
+3) Select City, Count(*) from Table_Name Group By City;
+from variable_name in collection
+group variable_name by variable_name.City into Group_Variable
+select new {City=Group_Variable.Key, Count=Group_Variable.Count(), Total=Group_Variable.Sum()};
+
+4) Select * from Table_Name order by col_name desc;
+from variable_name in collection
+orderby variable_name.property_name descending, variable_name.property_name
+select variable_name;
+
+
+Use XLINQ to generte the Xml document - 
+
+<Customers>
+	<Customer CustomerId="18822" ContactName="Alisha C." City="Mumbai">
+		<Orders>
+			<Order OrderId="100" OrderDate="..." Quantity="10"
+		</Orders>
+	</Customer>
+</Customers>
+
+System.Data
+	DataSet
+	DataTable
+	DataColumn
+	DataRow
+	DataConstraint
+
+MySql.Data.MySqlClient
+	MySqlConnection
+	MySqlDataAdapter
+	MySqlDataReader
+	MySqlCommand
+
+Multi-Threading - 
+
+Synchronous [CPU Bound Operations]
+	L1, L2, L3 Cache
+	RAM
+Asynchronous [IO Bound Operations] [Threads]
+	Disk and Network Operations
+
+
+ASP.NET MVC 
+Why?
+1) Loose Coupling
+2) Easy Testing
+3) TDD Environment[Test Driven Development]
+4) IoC = Inversion Of Control Container and D.I. - Dependency Injection
+5) Conditional Rendering
+
+Microsoft Web Server - IIS - Internet Information Service
+	1) Host the web applications
+	2) Redirect the request to an appropriate application
+
+
+What is Web Application?
+Collection of resource - Web Pages, Images, JS, CSS, ...
+
+
+https://localhost:44367 [Default Route]
+https://localhost:44367/Home [Specific/Named Route]
+https://localhost:44367/Employees [Specific/Named Route]
+https://localhost:44367/Employees/List [Specific/Named Route]
+https://localhost:44367/Employees/Details/8928 [Dynamic/Parameterized Route/QueryString]
+
+ASP.NET MVC
+
+https://localhost:44367/{Controller}/{ActionMethod}/{id?}
+https://localhost:44367/DefaultController=Home/DefaultActionMethod=Index
+https://localhost:44367/Home/DefaultActionMethod=Index
+https://localhost:44367/Employees/DefaultActionMethod=Index
+https://localhost:44367/Employees/List
+https://localhost:44367/Employees/Details/8928
+
+
+Controller is a class
+ActionMethod is a Function inside Controller class. Action method is an ultimate destination of your request
+
+Web Application Core Library - System.Web
+ASP.NET MVC Core Library - System.Web.Mvc
+
+How does Controller work?
+	1) Controller can work alone - Without Model and View
+	2) Controller can work only with model - Without View
+	3) Controller can work only with View - Wothout Model
+	4) Controller can work with both View and Model
+<h1><% Title %></h1>
+
+
+View File Extension - .cshtml [C# and Html] - [View Engine - Razor]
+	This Razor engine allows to write C# code along with Html
+		Syntax - @{
+			html code with C#
+		}
+		<h1>@title</h1>
+ASP.NET MVC offers Html Helper Methods
+	Auto Generate Html code on server side along with C# logic
+
+@Html object offers number of methods with number of overloads
+
+Sending Data from Controller's action method to View
+
+	1) Send Model data to View() method
+	2) ViewBag - It is dynamic dictionary object
+	3) ViewData - It is a dictionary
+	4) TempData - It is a dictionary
+
+
+IoC - Inversion-Of-Control Container
+D.I. - Dependency Injection
+
+ASP.NET MVC, we use Constrcutor Injection
+
+State Management - 
+	Http Protocol is stateless protocol
+
+Maintain the data between request and response lifecycle
+
+Non-Secured data [Client/Browser]	Secured Data - Server
+1) Query String					1) Session
+2) Cookie					2) Application
+	Transient and Persistant
+3) Hidden Field
+4) Web Storage
+	Session Storage/Local Storage
+5) IndexDB
+6) data- attributes
+
+
+https://localhost:44302/(S(dum2ktanqybfxfbpyz0y3zi0))/
+https://localhost:44302/EmployeeProfile/Search?city=Pune&state=MH&country=India
+Authentication - 
+	Checking the credentials of the User
+		Forms Authentication [Internet Site]
+			User Id and Password [Stored in DB]
+		Windows Authentication [Intranet Site]
+		OAuth [Social Networking]
+Authorization - 
+	Grant or Revoke the permissions from the end user/role
+
+
+Example - https://localhost:44305/api/employees
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

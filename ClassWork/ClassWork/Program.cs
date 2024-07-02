@@ -12,11 +12,14 @@ namespace ClassWork
         {
             List<Customers> list = GetAllCustomer();
             Console.WriteLine( "counting customers by linq :-" );
-            var allCustomer = from Customers customer in list 
+            var allCustomer = from  customer in list 
                               group customer by customer.city into Cities
                               select new { 
                                 City=Cities.Key,Count= Cities.Count()
                               };
+
+
+
 
             foreach (var item in allCustomer)
             {
@@ -30,7 +33,7 @@ namespace ClassWork
             //}
 
 
-            Console.WriteLine("Count Customers form each Cities: ");
+            Console.WriteLine("Count Customers form each Cities by dictionary : ");
 
             // with Dictionary 
             Dictionary<String,int> map = new Dictionary<String,int>();
@@ -38,7 +41,7 @@ namespace ClassWork
             {
                 if (map.ContainsKey(c.city))
                 { 
-                    map[c.city]++;
+                    map[c.city]++;        // arr[4] =6
                 } 
                 else 
                 {
@@ -53,7 +56,7 @@ namespace ClassWork
 
             // without Dictionary
 
-            Console.WriteLine("\nWithout Dictionary counting customers");
+            Console.WriteLine("\n Without Dictionary counting customers");
             List<UserMap> userMaps = new List<UserMap>();
 
             foreach (Customers cc in list)
@@ -73,6 +76,52 @@ namespace ClassWork
             {
                 Console.WriteLine($"{temp.city} - {temp.count}");
             }
+
+
+            Console.WriteLine("basic method : ");
+            int pune, mumbai, delhi, kota;
+            pune=mumbai=delhi=kota=0;
+            foreach (Customers cc in list)
+            {
+                if (cc.city == "Pune")
+                 pune++; 
+               if (cc.city == "Mumbai")
+                 mumbai++; 
+                if (cc.city == "Delhi")
+                 delhi++; 
+              if (cc.city == "Kota")
+                 kota++;
+
+            }
+            Console.WriteLine($"Pune : {pune}");
+            Console.WriteLine($"mumbai : {mumbai}");
+            Console.WriteLine($"delhi : {delhi}");
+            Console.WriteLine($"kota : {kota}");
+            Console.WriteLine("\nCustomer by id search :\n");
+
+            //var acc = from customer in list where customer.CustomerId == 2 select customer;
+
+          // var acc = from customer in list orderby customer.city descending, customer.CustomerName  select customer;
+
+
+
+
+       //      foreach (Customers it in acc)
+            {
+                Console.WriteLine($"Customer : {it.CustomerId} - {it.CustomerName} - {it.city}");
+            }
+
+
+
+            var sm = from cust in list group cust by cust.CustomerId select customer;
+
+            foreach (Customers it in sm)
+            {
+                Console.WriteLine($"Count: {it.CustomerId} - {it.CustomerName} - {it.city}");
+            }
+
+
+
 
 
 

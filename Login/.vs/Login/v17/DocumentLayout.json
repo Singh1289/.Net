@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infoway\\.Net\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FFA558-BD34-40BF-8F73-9D0D9FE76A4C}|Login\\Login.csproj|d:\\infoway\\.net\\login\\login\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FFA558-BD34-40BF-8F73-9D0D9FE76A4C}|Login\\Login.csproj|solutionrelative:login\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FFA558-BD34-40BF-8F73-9D0D9FE76A4C}|Login\\Login.csproj|d:\\infoway\\.net\\login\\login\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FFA558-BD34-40BF-8F73-9D0D9FE76A4C}|Login\\Login.csproj|solutionrelative:login\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FFA558-BD34-40BF-8F73-9D0D9FE76A4C}|Login\\Login.csproj|d:\\infoway\\.net\\login\\login\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3FFA558-BD34-40BF-8F73-9D0D9FE76A4C}|Login\\Login.csproj|solutionrelative:login\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\Login\\Login\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Login\\Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\Infoway\\.Net\\Login\\Login\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Login\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T06:45:52.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDal.cs",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\Login\\Login\\Dal\\UserDal.cs",
+              "RelativeDocumentMoniker": "Login\\Dal\\UserDal.cs",
+              "ToolTip": "D:\\Infoway\\.Net\\Login\\Login\\Dal\\UserDal.cs",
+              "RelativeToolTip": "Login\\Dal\\UserDal.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:44:37.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\Login\\Login\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Login\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Infoway\\.Net\\Login\\Login\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Login\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:42:55.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
