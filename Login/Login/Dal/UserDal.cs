@@ -29,7 +29,7 @@ namespace Login.Dal
                 {
                     
                     CMD.Connection = CN;
-                    CMD.CommandType = System.Data.CommandType.StoredProcedure;
+                    CMD.CommandType = CommandType.StoredProcedure;
                     CMD.CommandText = "checkUser";
                     CMD.Parameters.AddWithValue("p_email", u1.Email);
                     CMD.Parameters.AddWithValue("p_password", u1.Password);

@@ -3,15 +3,31 @@
   "WorkspaceRootPath": "D:\\Infoway\\.Net\\ClassWork\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|d:\\infoway\\.net\\classwork\\linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|solutionrelative:linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|d:\\infoway\\.net\\classwork\\linqexample\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|solutionrelative:linqexample\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|d:\\infoway\\.net\\classwork\\linqexample\\product.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6A1F6B60-B359-4297-9ABC-9CDE9272A307}|LinqExample\\LinqExample.csproj|solutionrelative:linqexample\\product.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BC9E75-A4E8-4F62-BBFD-4C7D871BF87E}|CreateXMLFile\\CreateXMLFile.csproj|d:\\infoway\\.net\\classwork\\createxmlfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BC9E75-A4E8-4F62-BBFD-4C7D871BF87E}|CreateXMLFile\\CreateXMLFile.csproj|solutionrelative:createxmlfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DCFEFE15-C70D-46E5-893D-90D44E75EC67}|ClassWork\\CountCityByLinq.csproj|d:\\infoway\\.net\\classwork\\classwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCFEFE15-C70D-46E5-893D-90D44E75EC67}|ClassWork\\CountCityByLinq.csproj|solutionrelative:classwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCFEFE15-C70D-46E5-893D-90D44E75EC67}|ClassWork\\CountCityByLinq.csproj|d:\\infoway\\.net\\classwork\\classwork\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCFEFE15-C70D-46E5-893D-90D44E75EC67}|ClassWork\\CountCityByLinq.csproj|D:\\Infoway\\.Net\\ClassWork\\classwork\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCFEFE15-C70D-46E5-893D-90D44E75EC67}|ClassWork\\CountCityByLinq.csproj|solutionrelative:classwork\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCFEFE15-C70D-46E5-893D-90D44E75EC67}|ClassWork\\CountCityByLinq.csproj|d:\\infoway\\.net\\classwork\\classwork\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCFEFE15-C70D-46E5-893D-90D44E75EC67}|ClassWork\\CountCityByLinq.csproj|D:\\Infoway\\.Net\\ClassWork\\classwork\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCFEFE15-C70D-46E5-893D-90D44E75EC67}|ClassWork\\CountCityByLinq.csproj|solutionrelative:classwork\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,11 +38,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\ClassWork\\LinqExample\\Product.cs",
+              "RelativeDocumentMoniker": "LinqExample\\Product.cs",
+              "ToolTip": "D:\\Infoway\\.Net\\ClassWork\\LinqExample\\Product.cs",
+              "RelativeToolTip": "LinqExample\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:26:38.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Product.xml",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\ClassWork\\LinqExample\\Product.xml",
+              "RelativeDocumentMoniker": "LinqExample\\Product.xml",
+              "ToolTip": "D:\\Infoway\\.Net\\ClassWork\\LinqExample\\Product.xml",
+              "RelativeToolTip": "LinqExample\\Product.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-02T14:19:48.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\ClassWork\\LinqExample\\Program.cs",
+              "RelativeDocumentMoniker": "LinqExample\\Program.cs",
+              "ToolTip": "D:\\Infoway\\.Net\\ClassWork\\LinqExample\\Program.cs",
+              "RelativeToolTip": "LinqExample\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAwEwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:19:17.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Infoway\\.Net\\ClassWork\\CreateXMLFile\\Program.cs",
+              "RelativeDocumentMoniker": "CreateXMLFile\\Program.cs",
+              "ToolTip": "D:\\Infoway\\.Net\\ClassWork\\CreateXMLFile\\Program.cs",
+              "RelativeToolTip": "CreateXMLFile\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:19:03.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Customers.cs",
               "DocumentMoniker": "D:\\Infoway\\.Net\\ClassWork\\ClassWork\\Customers.cs",
               "RelativeDocumentMoniker": "ClassWork\\Customers.cs",
@@ -34,25 +102,24 @@
               "RelativeToolTip": "ClassWork\\Customers.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T15:41:44.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T15:41:44.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Infoway\\.Net\\ClassWork\\ClassWork\\Program.cs",
               "RelativeDocumentMoniker": "ClassWork\\Program.cs",
               "ToolTip": "D:\\Infoway\\.Net\\ClassWork\\ClassWork\\Program.cs",
               "RelativeToolTip": "ClassWork\\Program.cs",
-              "ViewState": "AQIAAGoAAAAAAAAAAAAQwHQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T15:41:37.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "UserMap.cs",
               "DocumentMoniker": "D:\\Infoway\\.Net\\ClassWork\\ClassWork\\UserMap.cs",
               "RelativeDocumentMoniker": "ClassWork\\UserMap.cs",
@@ -60,8 +127,7 @@
               "RelativeToolTip": "ClassWork\\UserMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T15:41:33.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T15:41:33.225Z"
             }
           ]
         }
