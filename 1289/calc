@@ -1,0 +1,38 @@
+while true; do
+    echo "1. Addition"
+    echo "2. Subtraction"
+    echo "3. Multiplication"
+    echo "4. Division"
+    echo "5. EXIT"
+    echo
+    echo -n "Enter your choice [1-5] : "
+    read ch
+
+    case "$ch" in
+        1) echo "Enter two numbers:"
+           read a 
+           read b
+           echo "$a + $b" | bc
+           ;;
+        2) echo "Enter two numbers:"
+           read a 
+	   read b
+           echo "$a - $b" | bc
+           ;;
+        3) echo "Enter two numbers:"
+           read a 
+	   read b
+           echo "$a * $b" | bc
+           ;;
+        4) echo "Enter two numbers:"
+           read a 
+	   read b
+           echo " $a / $b" | bc
+           ;;
+        5) echo "Exiting ..!!"
+           exit
+           ;;
+        *) echo "Invalid choice"
+           ;;
+    esac
+done

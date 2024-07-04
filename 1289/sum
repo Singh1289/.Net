@@ -1,0 +1,7 @@
+sum=0
+for a in $@
+do
+   sum=`echo "$sum + $a" | bc`
+done
+
+echo "sum = $sum"

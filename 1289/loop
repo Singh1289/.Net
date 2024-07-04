@@ -1,0 +1,4 @@
+for i in range 15 16 23 87 45 12
+do
+	echo "$i"
+done

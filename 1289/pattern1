@@ -1,0 +1,20 @@
+echo "no of rows"
+read n
+for (( i=0 ; i<$n ; i++ ))
+do
+
+ for (( j=1 ; j<=i+1 ; j++ ))
+  do
+	echo -n "$j"
+  done
+  echo 
+done
+
+for (( k=$n-1 ;k>=1 ; k-- ))
+do
+   for (( m=1 ; m<=k ; m++ ))
+   do
+       echo -n "$m"
+  done
+  echo
+done
